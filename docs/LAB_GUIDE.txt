@@ -1,0 +1,29 @@
+POWER BI PROFILING + TRANSFORMATION LAB
+10,000 rows per dataset.
+
+Raw SQL tables deliberately use TEXT columns. This is intentional so malformed
+numbers, dates and IDs can be loaded into Neon without import failure.
+
+ISSUES INCLUDED
+1 Missing/null values
+2 Blank values
+3 Incorrect numeric types
+4 Incorrect date/time formats
+5 Invalid dates/timestamps
+6 Negative/impossible values
+7 Out-of-range IoT readings
+8 Leading/trailing spaces
+9 Case inconsistencies
+10 Duplicate complete rows
+11 Duplicate business keys
+12 Invalid IDs
+13 Mixed text/numeric values
+14 Business-rule violations
+
+LAB ORDER
+A. Profile before changing anything.
+B. Record findings.
+C. Transform in Power Query.
+D. Re-profile and validate.
+
+Do not clean the source files. Use them as raw inputs.

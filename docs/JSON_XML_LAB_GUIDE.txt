@@ -1,0 +1,47 @@
+JSON + XML DATA SOURCES
+=======================
+
+These JSON and XML files contain the same intentionally dirty 10,000-row
+datasets as the CSV/Excel versions.
+
+Files:
+- sales_10000.json / sales_10000.xml
+- hr_10000.json / hr_10000.xml
+- iot_10000.json / iot_10000.xml
+
+POWER BI
+--------
+JSON:
+Home -> Get Data -> JSON -> select the file -> Transform Data
+
+XML:
+Home -> Get Data -> XML -> select the file -> Transform Data
+
+For JSON, students should inspect:
+- List/Record structure
+- Expand Record
+- Expand to table
+- Null values
+- Mixed value types
+- Field names
+- Nested/structured data
+
+For XML, students should inspect:
+- Document/table structure
+- row elements
+- child elements
+- null/blank elements
+- data types after expansion
+
+The data intentionally contains the same profiling issues:
+missing values, malformed numbers, malformed dates, inconsistent text,
+duplicates, invalid ranges and business-rule errors.
+
+Recommended sequence:
+1. Connect
+2. Inspect structure
+3. Convert/expand to table
+4. Profile
+5. Record issues
+6. Transform
+7. Validate

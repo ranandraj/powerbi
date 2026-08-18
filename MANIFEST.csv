@@ -1,0 +1,15 @@
+file,dataset,rows,source
+sales_10000.csv,Sales,10000,CSV
+sales_10000.xlsx,Sales,10000,Excel
+sales_10000.json,Sales,10000,JSON
+sales_10000.xml,Sales,10000,XML
+hr_10000.csv,HR,10000,CSV
+hr_10000.json,HR,10000,JSON
+hr_10000.xml,HR,10000,XML
+iot_10000.csv,IoT,10000,CSV
+iot_10000.json,IoT,10000,JSON
+iot_10000.xml,IoT,10000,XML
+01_sales_raw.sql,Sales,10000,Neon PostgreSQL
+02_hr_raw.sql,HR,10000,Neon PostgreSQL
+03_iot_raw.sql,IoT,10000,Neon PostgreSQL
+01_profile_all.py,All,-,Python

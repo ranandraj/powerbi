@@ -1,0 +1,21 @@
+CustomerID,CustomerType,City,State
+CUST001,Retail,Chennai,Tamil Nadu
+CUST002,Corporate,Delhi,Delhi
+CUST003,Individual,Kolkata,West Bengal
+CUST004,Corporate,Mumbai,Maharashtra
+CUST005,Corporate,Chennai,Tamil Nadu
+CUST006,Individual,Bengaluru,Karnataka
+CUST007,Individual,Hyderabad,Telangana
+CUST008,Corporate,Pune,Maharashtra
+CUST009,Individual,Chennai,Tamil Nadu
+CUST010,Corporate,Delhi,Delhi
+CUST011,Corporate,Kolkata,West Bengal
+CUST012,Individual,Mumbai,Maharashtra
+CUST013,Individual,Chennai,Tamil Nadu
+CUST014,Corporate,Bengaluru,Karnataka
+CUST015,Individual,Hyderabad,Telangana
+CUST016,Corporate,Pune,Maharashtra
+CUST017,Individual,Chennai,Tamil Nadu
+CUST018,Corporate,Delhi,Delhi
+CUST019,Individual,Kolkata,West Bengal
+CUST020,Corporate,Mumbai,Maharashtra

@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,Product,Category,Region,Channel,Salesperson,Quantity,UnitPrice,SalesAmount,CustomerRegion
+ORD001,2026-01-05,CUST001,Laptop,Electronics,South,Retail,Arun,2,65000,130000,CUST001 | South
+ORD002,2026-01-06,CUST002,Monitor,Electronics,North,Online,Priya,3,18000,54000,CUST002 | North
+ORD003,2026-01-07,CUST003,Keyboard,Accessories,East,Partner,Rahul,4,2200,8800,CUST003 | East
+ORD004,2026-01-08,CUST004,Mouse,Accessories,West,Retail,Meena,5,900,4500,CUST004 | West
+ORD005,2026-01-09,CUST005,Printer,Electronics,South,Online,Arun,2,12500,25000,CUST005 | South
+ORD006,2026-01-10,CUST006,Laptop,Electronics,North,Partner,Priya,1,65000,65000,CUST006 | North
+ORD007,2026-01-11,CUST007,Monitor,Electronics,East,Retail,Rahul,2,18000,36000,CUST007 | East
+ORD008,2026-01-12,CUST008,Keyboard,Accessories,West,Online,Meena,3,2200,6600,CUST008 | West
+ORD009,2026-01-13,CUST009,Mouse,Accessories,South,Partner,Arun,4,900,3600,CUST009 | South
+ORD010,2026-01-14,CUST010,Printer,Electronics,North,Retail,Priya,2,12500,25000,CUST010 | North
+ORD011,2026-01-15,CUST011,Laptop,Electronics,East,Online,Rahul,3,65000,195000,CUST011 | East
+ORD012,2026-01-16,CUST012,Monitor,Electronics,West,Partner,Meena,4,18000,72000,CUST012 | West
+ORD013,2026-01-17,CUST013,Keyboard,Accessories,South,Retail,Arun,5,2200,11000,CUST013 | South
+ORD014,2026-01-18,CUST014,Mouse,Accessories,North,Online,Priya,6,900,5400,CUST014 | North
+ORD015,2026-01-19,CUST015,Printer,Electronics,East,Partner,Rahul,1,12500,12500,CUST015 | East
+ORD016,2026-01-20,CUST016,Laptop,Electronics,West,Retail,Meena,2,65000,130000,CUST016 | West
+ORD017,2026-01-21,CUST017,Monitor,Electronics,South,Online,Arun,3,18000,54000,CUST017 | South
+ORD018,2026-01-22,CUST018,Keyboard,Accessories,North,Partner,Priya,4,2200,8800,CUST018 | North
+ORD019,2026-01-23,CUST019,Mouse,Accessories,East,Retail,Rahul,5,900,4500,CUST019 | East
+ORD020,2026-01-24,CUST020,Printer,Electronics,West,Online,Meena,2,12500,25000,CUST020 | West

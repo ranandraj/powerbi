@@ -1,0 +1,11 @@
+ProductID,Product,Category,StandardPrice
+P001,Laptop,Electronics,65000
+P002,Monitor,Electronics,18000
+P003,Keyboard,Accessories,2200
+P004,Mouse,Accessories,900
+P005,Printer,Office,12500
+P006,Headset,Accessories,3500
+P007,Tablet,Electronics,28000
+P008,Webcam,Accessories,4500
+P009,Router,Networking,6500
+P010,UPS,Power,8000

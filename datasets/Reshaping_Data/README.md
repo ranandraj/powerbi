@@ -1,4 +1,4 @@
-# Power BI Day 2 - Sales Reshaping & Power Query Complete Lab
+# Sales Reshaping & Power Query Complete Lab
 
 ## Purpose
 

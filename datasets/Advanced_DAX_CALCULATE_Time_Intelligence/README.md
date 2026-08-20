@@ -1,4 +1,4 @@
-# Power BI Advanced DAX Lab
+# Advanced DAX
 ## CALCULATE, YTD, QTD and Rolling Averages
 
 ---

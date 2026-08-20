@@ -1,0 +1,9 @@
+DeviceID,DeviceName,DeviceType,SiteID
+DEV001,Sensor 1,Humidity,S01
+DEV002,Sensor 2,Multi,S02
+DEV003,Sensor 3,Temperature,S03
+DEV004,Sensor 4,Humidity,S04
+DEV005,Sensor 5,Multi,S05
+DEV006,Sensor 6,Temperature,S06
+DEV007,Sensor 7,Humidity,S01
+DEV008,Sensor 8,Multi,S02

@@ -1,9 +1,9 @@
-# Power BI Lab: DAX Fundamentals
+# DAX Fundamentals
 ## SUM, COUNTROWS and DISTINCTCOUNT
 
 ### Goal
 
-This lab introduces DAX and gives you a practical way to create and test the three core aggregation functions:
+This lab introduces DAX and gives a practical way to create and test the three core aggregation functions:
 
 - `SUM`
 - `COUNTROWS`

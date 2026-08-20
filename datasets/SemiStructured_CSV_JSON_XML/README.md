@@ -1,4 +1,4 @@
-# Power BI Lab: CSV with Embedded JSON and XML
+# CSV with Embedded JSON and XML
 
 ## Purpose
 

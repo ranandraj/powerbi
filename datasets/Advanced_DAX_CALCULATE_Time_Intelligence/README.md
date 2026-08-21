@@ -252,7 +252,7 @@ Example:
 ```DAX
 Online Sales =
 CALCULATE(
-    [Total Sales],
+    SUM(FactSales[SalesAmount],
     FactSales[Channel] = "Online"
 )
 ```

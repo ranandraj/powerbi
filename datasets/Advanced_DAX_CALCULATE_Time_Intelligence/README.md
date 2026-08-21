@@ -739,7 +739,7 @@ Enter:
 ```DAX
 Online Sales =
 CALCULATE(
-    [Total Sales],
+    SUM(FactSales[SalesAmount]),
     FactSales[Channel] = "Online"
 )
 ```
@@ -778,7 +778,7 @@ Create:
 ```DAX
 South Sales =
 CALCULATE(
-    [Total Sales],
+    SUM(FactSales[SalesAmount]),
     FactSales[Region] = "South"
 )
 ```
@@ -797,7 +797,7 @@ Create:
 ```DAX
 South Online Sales =
 CALCULATE(
-    [Total Sales],
+    SUM(FactSales[SalesAmount]),
     FactSales[Region] = "South",
     FactSales[Channel] = "Online"
 )
@@ -856,9 +856,9 @@ This experiment should be completed before moving to time intelligence.
 Create a new measure:
 
 ```DAX
-Sales YTD =
+Sales YTD = 
 TOTALYTD(
-    [Total Sales],
+    SUM(FactSales[SalesAmount]),
     DimDate[Date]
 )
 ```

@@ -1,4 +1,4 @@
-# Power BI DAX 12-Formula Practice Lab
+# DAX 12-Formulas
 
 ## Purpose
 
@@ -18,11 +18,6 @@ The article covers:
 10. `IF`
 11. `SWITCH`
 12. `RANKX`
-
-Source:
-https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/12-essential-power-bi-dax-formulas-every-report-creator-should-master
-
-The examples below use the supplied Sales, Customers, Products and Date CSV files. The article's examples use sales-style scenarios such as regional sales, revenue calculations, percentages, customer filtering, categorization and ranking. The exercises adapt those ideas to this training dataset.
 
 ---
 

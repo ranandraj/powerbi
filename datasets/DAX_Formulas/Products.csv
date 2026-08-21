@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Tier,UnitPrice,UnitCost
+P001,Laptop,Electronics,Premium,65000,50000
+P002,Monitor,Electronics,Standard,18000,13000
+P003,Keyboard,Accessories,Standard,2200,1400
+P004,Mouse,Accessories,Standard,900,500
+P005,Printer,Office,Standard,12500,9000
+P006,Tablet,Electronics,Premium,32000,24000

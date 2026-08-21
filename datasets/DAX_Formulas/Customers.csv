@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Country,Region,Segment
+C001,Asha Traders,India,South,Retail
+C002,Bharat Stores,India,North,Retail
+C003,Cedar Tech,India,East,Partner
+C004,Delta Systems,India,West,Partner
+C005,Evergreen Ltd,India,South,Online
+C006,Falcon Retail,India,North,Retail
+C007,Galaxy Corp,India,East,Online
+C008,Horizon Labs,India,West,Partner
+C009,Indigo Mart,India,South,Retail
+C010,Jupiter Pvt Ltd,India,North,Online

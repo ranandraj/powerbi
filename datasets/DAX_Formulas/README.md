@@ -1,11 +1,5 @@
 # DAX 12-Formulas
 
-## Purpose
-
-This lab is designed around the 12 DAX functions 
-
-The article covers:
-
 1. `CALCULATE`
 2. `SUMX`
 3. `ALL`

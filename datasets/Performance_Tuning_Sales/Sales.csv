@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,ProductID,Product,Category,Region,Channel,Quantity,UnitPrice,Discount,SalesAmount,TransactionNotes
+ORD00001,2025-01-01,CUST001,P001,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00001 - system ref 00001
+ORD00002,2025-01-02,CUST002,P002,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00002 - system ref 00002
+ORD00003,2025-01-03,CUST003,P003,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00003 - system ref 00003
+ORD00004,2025-01-04,CUST004,P004,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00004 - system ref 00004
+ORD00005,2025-01-05,CUST005,P005,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00005 - system ref 00005
+ORD00006,2025-01-06,CUST006,P006,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00006 - system ref 00006
+ORD00007,2025-01-07,CUST007,P007,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00007 - system ref 00007
+ORD00008,2025-01-08,CUST008,P008,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00008 - system ref 00008
+ORD00009,2025-01-09,CUST009,P009,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00009 - system ref 00009
+ORD00010,2025-01-10,CUST010,P010,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00010 - system ref 00010
+ORD00011,2025-01-11,CUST011,P011,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00011 - system ref 00011
+ORD00012,2025-01-12,CUST012,P012,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00012 - system ref 00012
+ORD00013,2025-01-13,CUST013,P013,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00013 - system ref 00013
+ORD00014,2025-01-14,CUST014,P014,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00014 - system ref 00014
+ORD00015,2025-01-15,CUST015,P015,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00015 - system ref 00015
+ORD00016,2025-01-16,CUST016,P016,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00016 - system ref 00016
+ORD00017,2025-01-17,CUST017,P017,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00017 - system ref 00017
+ORD00018,2025-01-18,CUST018,P018,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00018 - system ref 00018
+ORD00019,2025-01-19,CUST019,P019,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00019 - system ref 00019
+ORD00020,2025-01-20,CUST020,P020,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00020 - system ref 00020
+ORD00021,2025-01-21,CUST021,P021,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00021 - system ref 00021
+ORD00022,2025-01-22,CUST022,P022,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00022 - system ref 00022
+ORD00023,2025-01-23,CUST023,P023,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00023 - system ref 00023
+ORD00024,2025-01-24,CUST024,P024,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00024 - system ref 00024
+ORD00025,2025-01-25,CUST025,P025,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00025 - system ref 00025
+ORD00026,2025-01-26,CUST026,P001,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00026 - system ref 00026
+ORD00027,2025-01-27,CUST027,P002,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00027 - system ref 00027
+ORD00028,2025-01-28,CUST028,P003,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00028 - system ref 00028
+ORD00029,2025-01-29,CUST029,P004,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00029 - system ref 00029
+ORD00030,2025-01-30,CUST030,P005,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00030 - system ref 00030
+ORD00031,2025-01-31,CUST031,P006,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00031 - system ref 00031
+ORD00032,2025-02-01,CUST032,P007,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00032 - system ref 00032
+ORD00033,2025-02-02,CUST033,P008,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00033 - system ref 00033
+ORD00034,2025-02-03,CUST034,P009,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00034 - system ref 00034
+ORD00035,2025-02-04,CUST035,P010,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00035 - system ref 00035
+ORD00036,2025-02-05,CUST036,P011,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00036 - system ref 00036
+ORD00037,2025-02-06,CUST037,P012,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00037 - system ref 00037
+ORD00038,2025-02-07,CUST038,P013,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00038 - system ref 00038
+ORD00039,2025-02-08,CUST039,P014,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00039 - system ref 00039
+ORD00040,2025-02-09,CUST040,P015,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00040 - system ref 00040
+ORD00041,2025-02-10,CUST041,P016,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00041 - system ref 00041
+ORD00042,2025-02-11,CUST042,P017,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00042 - system ref 00042
+ORD00043,2025-02-12,CUST043,P018,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00043 - system ref 00043
+ORD00044,2025-02-13,CUST044,P019,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00044 - system ref 00044
+ORD00045,2025-02-14,CUST045,P020,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00045 - system ref 00045
+ORD00046,2025-02-15,CUST046,P021,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00046 - system ref 00046
+ORD00047,2025-02-16,CUST047,P022,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00047 - system ref 00047
+ORD00048,2025-02-17,CUST048,P023,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00048 - system ref 00048
+ORD00049,2025-02-18,CUST049,P024,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00049 - system ref 00049
+ORD00050,2025-02-19,CUST050,P025,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00050 - system ref 00050
+ORD00051,2025-02-20,CUST051,P001,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00051 - system ref 00051
+ORD00052,2025-02-21,CUST052,P002,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00052 - system ref 00052
+ORD00053,2025-02-22,CUST053,P003,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00053 - system ref 00053
+ORD00054,2025-02-23,CUST054,P004,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00054 - system ref 00054
+ORD00055,2025-02-24,CUST055,P005,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00055 - system ref 00055
+ORD00056,2025-02-25,CUST056,P006,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00056 - system ref 00056
+ORD00057,2025-02-26,CUST057,P007,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00057 - system ref 00057
+ORD00058,2025-02-27,CUST058,P008,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00058 - system ref 00058
+ORD00059,2025-02-28,CUST059,P009,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00059 - system ref 00059
+ORD00060,2025-03-01,CUST060,P010,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00060 - system ref 00060
+ORD00061,2025-03-02,CUST061,P011,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00061 - system ref 00061
+ORD00062,2025-03-03,CUST062,P012,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00062 - system ref 00062
+ORD00063,2025-03-04,CUST063,P013,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00063 - system ref 00063
+ORD00064,2025-03-05,CUST064,P014,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00064 - system ref 00064
+ORD00065,2025-03-06,CUST065,P015,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00065 - system ref 00065
+ORD00066,2025-03-07,CUST066,P016,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00066 - system ref 00066
+ORD00067,2025-03-08,CUST067,P017,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00067 - system ref 00067
+ORD00068,2025-03-09,CUST068,P018,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00068 - system ref 00068
+ORD00069,2025-03-10,CUST069,P019,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00069 - system ref 00069
+ORD00070,2025-03-11,CUST070,P020,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00070 - system ref 00070
+ORD00071,2025-03-12,CUST071,P021,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00071 - system ref 00071
+ORD00072,2025-03-13,CUST072,P022,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00072 - system ref 00072
+ORD00073,2025-03-14,CUST073,P023,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00073 - system ref 00073
+ORD00074,2025-03-15,CUST074,P024,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00074 - system ref 00074
+ORD00075,2025-03-16,CUST075,P025,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00075 - system ref 00075
+ORD00076,2025-03-17,CUST076,P001,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00076 - system ref 00076
+ORD00077,2025-03-18,CUST077,P002,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00077 - system ref 00077
+ORD00078,2025-03-19,CUST078,P003,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00078 - system ref 00078
+ORD00079,2025-03-20,CUST079,P004,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00079 - system ref 00079
+ORD00080,2025-03-21,CUST080,P005,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00080 - system ref 00080
+ORD00081,2025-03-22,CUST081,P006,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00081 - system ref 00081
+ORD00082,2025-03-23,CUST082,P007,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00082 - system ref 00082
+ORD00083,2025-03-24,CUST083,P008,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00083 - system ref 00083
+ORD00084,2025-03-25,CUST084,P009,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00084 - system ref 00084
+ORD00085,2025-03-26,CUST085,P010,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00085 - system ref 00085
+ORD00086,2025-03-27,CUST086,P011,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00086 - system ref 00086
+ORD00087,2025-03-28,CUST087,P012,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00087 - system ref 00087
+ORD00088,2025-03-29,CUST088,P013,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00088 - system ref 00088
+ORD00089,2025-03-30,CUST089,P014,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00089 - system ref 00089
+ORD00090,2025-03-31,CUST090,P015,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00090 - system ref 00090
+ORD00091,2025-04-01,CUST091,P016,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00091 - system ref 00091
+ORD00092,2025-04-02,CUST092,P017,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00092 - system ref 00092
+ORD00093,2025-04-03,CUST093,P018,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00093 - system ref 00093
+ORD00094,2025-04-04,CUST094,P019,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00094 - system ref 00094
+ORD00095,2025-04-05,CUST095,P020,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00095 - system ref 00095
+ORD00096,2025-04-06,CUST096,P021,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00096 - system ref 00096
+ORD00097,2025-04-07,CUST097,P022,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00097 - system ref 00097
+ORD00098,2025-04-08,CUST098,P023,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00098 - system ref 00098
+ORD00099,2025-04-09,CUST099,P024,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00099 - system ref 00099
+ORD00100,2025-04-10,CUST100,P025,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00100 - system ref 00100
+ORD00101,2025-04-11,CUST101,P001,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00101 - system ref 00101
+ORD00102,2025-04-12,CUST102,P002,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00102 - system ref 00102
+ORD00103,2025-04-13,CUST103,P003,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00103 - system ref 00103
+ORD00104,2025-04-14,CUST104,P004,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00104 - system ref 00104
+ORD00105,2025-04-15,CUST105,P005,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00105 - system ref 00105
+ORD00106,2025-04-16,CUST106,P006,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00106 - system ref 00106
+ORD00107,2025-04-17,CUST107,P007,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00107 - system ref 00107
+ORD00108,2025-04-18,CUST108,P008,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00108 - system ref 00108
+ORD00109,2025-04-19,CUST109,P009,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00109 - system ref 00109
+ORD00110,2025-04-20,CUST110,P010,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00110 - system ref 00110
+ORD00111,2025-04-21,CUST111,P011,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00111 - system ref 00111
+ORD00112,2025-04-22,CUST112,P012,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00112 - system ref 00112
+ORD00113,2025-04-23,CUST113,P013,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00113 - system ref 00113
+ORD00114,2025-04-24,CUST114,P014,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00114 - system ref 00114
+ORD00115,2025-04-25,CUST115,P015,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00115 - system ref 00115
+ORD00116,2025-04-26,CUST116,P016,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00116 - system ref 00116
+ORD00117,2025-04-27,CUST117,P017,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00117 - system ref 00117
+ORD00118,2025-04-28,CUST118,P018,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00118 - system ref 00118
+ORD00119,2025-04-29,CUST119,P019,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00119 - system ref 00119
+ORD00120,2025-04-30,CUST120,P020,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00120 - system ref 00120
+ORD00121,2025-05-01,CUST001,P021,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00121 - system ref 00121
+ORD00122,2025-05-02,CUST002,P022,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00122 - system ref 00122
+ORD00123,2025-05-03,CUST003,P023,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00123 - system ref 00123
+ORD00124,2025-05-04,CUST004,P024,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00124 - system ref 00124
+ORD00125,2025-05-05,CUST005,P025,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00125 - system ref 00125
+ORD00126,2025-05-06,CUST006,P001,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00126 - system ref 00126
+ORD00127,2025-05-07,CUST007,P002,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00127 - system ref 00127
+ORD00128,2025-05-08,CUST008,P003,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00128 - system ref 00128
+ORD00129,2025-05-09,CUST009,P004,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00129 - system ref 00129
+ORD00130,2025-05-10,CUST010,P005,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00130 - system ref 00130
+ORD00131,2025-05-11,CUST011,P006,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00131 - system ref 00131
+ORD00132,2025-05-12,CUST012,P007,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00132 - system ref 00132
+ORD00133,2025-05-13,CUST013,P008,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00133 - system ref 00133
+ORD00134,2025-05-14,CUST014,P009,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00134 - system ref 00134
+ORD00135,2025-05-15,CUST015,P010,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00135 - system ref 00135
+ORD00136,2025-05-16,CUST016,P011,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00136 - system ref 00136
+ORD00137,2025-05-17,CUST017,P012,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00137 - system ref 00137
+ORD00138,2025-05-18,CUST018,P013,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00138 - system ref 00138
+ORD00139,2025-05-19,CUST019,P014,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00139 - system ref 00139
+ORD00140,2025-05-20,CUST020,P015,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00140 - system ref 00140
+ORD00141,2025-05-21,CUST021,P016,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00141 - system ref 00141
+ORD00142,2025-05-22,CUST022,P017,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00142 - system ref 00142
+ORD00143,2025-05-23,CUST023,P018,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00143 - system ref 00143
+ORD00144,2025-05-24,CUST024,P019,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00144 - system ref 00144
+ORD00145,2025-05-25,CUST025,P020,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00145 - system ref 00145
+ORD00146,2025-05-26,CUST026,P021,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00146 - system ref 00146
+ORD00147,2025-05-27,CUST027,P022,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00147 - system ref 00147
+ORD00148,2025-05-28,CUST028,P023,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00148 - system ref 00148
+ORD00149,2025-05-29,CUST029,P024,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00149 - system ref 00149
+ORD00150,2025-05-30,CUST030,P025,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00150 - system ref 00150
+ORD00151,2025-05-31,CUST031,P001,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00151 - system ref 00151
+ORD00152,2025-06-01,CUST032,P002,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00152 - system ref 00152
+ORD00153,2025-06-02,CUST033,P003,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00153 - system ref 00153
+ORD00154,2025-06-03,CUST034,P004,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00154 - system ref 00154
+ORD00155,2025-06-04,CUST035,P005,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00155 - system ref 00155
+ORD00156,2025-06-05,CUST036,P006,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00156 - system ref 00156
+ORD00157,2025-06-06,CUST037,P007,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00157 - system ref 00157
+ORD00158,2025-06-07,CUST038,P008,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00158 - system ref 00158
+ORD00159,2025-06-08,CUST039,P009,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00159 - system ref 00159
+ORD00160,2025-06-09,CUST040,P010,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00160 - system ref 00160
+ORD00161,2025-06-10,CUST041,P011,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00161 - system ref 00161
+ORD00162,2025-06-11,CUST042,P012,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00162 - system ref 00162
+ORD00163,2025-06-12,CUST043,P013,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00163 - system ref 00163
+ORD00164,2025-06-13,CUST044,P014,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00164 - system ref 00164
+ORD00165,2025-06-14,CUST045,P015,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00165 - system ref 00165
+ORD00166,2025-06-15,CUST046,P016,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00166 - system ref 00166
+ORD00167,2025-06-16,CUST047,P017,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00167 - system ref 00167
+ORD00168,2025-06-17,CUST048,P018,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00168 - system ref 00168
+ORD00169,2025-06-18,CUST049,P019,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00169 - system ref 00169
+ORD00170,2025-06-19,CUST050,P020,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00170 - system ref 00170
+ORD00171,2025-06-20,CUST051,P021,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00171 - system ref 00171
+ORD00172,2025-06-21,CUST052,P022,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00172 - system ref 00172
+ORD00173,2025-06-22,CUST053,P023,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00173 - system ref 00173
+ORD00174,2025-06-23,CUST054,P024,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00174 - system ref 00174
+ORD00175,2025-06-24,CUST055,P025,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00175 - system ref 00175
+ORD00176,2025-06-25,CUST056,P001,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00176 - system ref 00176
+ORD00177,2025-06-26,CUST057,P002,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00177 - system ref 00177
+ORD00178,2025-06-27,CUST058,P003,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00178 - system ref 00178
+ORD00179,2025-06-28,CUST059,P004,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00179 - system ref 00179
+ORD00180,2025-06-29,CUST060,P005,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00180 - system ref 00180
+ORD00181,2025-06-30,CUST061,P006,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00181 - system ref 00181
+ORD00182,2025-07-01,CUST062,P007,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00182 - system ref 00182
+ORD00183,2025-07-02,CUST063,P008,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00183 - system ref 00183
+ORD00184,2025-07-03,CUST064,P009,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00184 - system ref 00184
+ORD00185,2025-07-04,CUST065,P010,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00185 - system ref 00185
+ORD00186,2025-07-05,CUST066,P011,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00186 - system ref 00186
+ORD00187,2025-07-06,CUST067,P012,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00187 - system ref 00187
+ORD00188,2025-07-07,CUST068,P013,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00188 - system ref 00188
+ORD00189,2025-07-08,CUST069,P014,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00189 - system ref 00189
+ORD00190,2025-07-09,CUST070,P015,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00190 - system ref 00190
+ORD00191,2025-07-10,CUST071,P016,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00191 - system ref 00191
+ORD00192,2025-07-11,CUST072,P017,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00192 - system ref 00192
+ORD00193,2025-07-12,CUST073,P018,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00193 - system ref 00193
+ORD00194,2025-07-13,CUST074,P019,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00194 - system ref 00194
+ORD00195,2025-07-14,CUST075,P020,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00195 - system ref 00195
+ORD00196,2025-07-15,CUST076,P021,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00196 - system ref 00196
+ORD00197,2025-07-16,CUST077,P022,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00197 - system ref 00197
+ORD00198,2025-07-17,CUST078,P023,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00198 - system ref 00198
+ORD00199,2025-07-18,CUST079,P024,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00199 - system ref 00199
+ORD00200,2025-07-19,CUST080,P025,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00200 - system ref 00200
+ORD00201,2025-07-20,CUST081,P001,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00201 - system ref 00201
+ORD00202,2025-07-21,CUST082,P002,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00202 - system ref 00202
+ORD00203,2025-07-22,CUST083,P003,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00203 - system ref 00203
+ORD00204,2025-07-23,CUST084,P004,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00204 - system ref 00204
+ORD00205,2025-07-24,CUST085,P005,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00205 - system ref 00205
+ORD00206,2025-07-25,CUST086,P006,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00206 - system ref 00206
+ORD00207,2025-07-26,CUST087,P007,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00207 - system ref 00207
+ORD00208,2025-07-27,CUST088,P008,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00208 - system ref 00208
+ORD00209,2025-07-28,CUST089,P009,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00209 - system ref 00209
+ORD00210,2025-07-29,CUST090,P010,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00210 - system ref 00210
+ORD00211,2025-07-30,CUST091,P011,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00211 - system ref 00211
+ORD00212,2025-07-31,CUST092,P012,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00212 - system ref 00212
+ORD00213,2025-08-01,CUST093,P013,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00213 - system ref 00213
+ORD00214,2025-08-02,CUST094,P014,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00214 - system ref 00214
+ORD00215,2025-08-03,CUST095,P015,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00215 - system ref 00215
+ORD00216,2025-08-04,CUST096,P016,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00216 - system ref 00216
+ORD00217,2025-08-05,CUST097,P017,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00217 - system ref 00217
+ORD00218,2025-08-06,CUST098,P018,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00218 - system ref 00218
+ORD00219,2025-08-07,CUST099,P019,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00219 - system ref 00219
+ORD00220,2025-08-08,CUST100,P020,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00220 - system ref 00220
+ORD00221,2025-08-09,CUST101,P021,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00221 - system ref 00221
+ORD00222,2025-08-10,CUST102,P022,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00222 - system ref 00222
+ORD00223,2025-08-11,CUST103,P023,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00223 - system ref 00223
+ORD00224,2025-08-12,CUST104,P024,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00224 - system ref 00224
+ORD00225,2025-08-13,CUST105,P025,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00225 - system ref 00225
+ORD00226,2025-08-14,CUST106,P001,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00226 - system ref 00226
+ORD00227,2025-08-15,CUST107,P002,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00227 - system ref 00227
+ORD00228,2025-08-16,CUST108,P003,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00228 - system ref 00228
+ORD00229,2025-08-17,CUST109,P004,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00229 - system ref 00229
+ORD00230,2025-08-18,CUST110,P005,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00230 - system ref 00230
+ORD00231,2025-08-19,CUST111,P006,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00231 - system ref 00231
+ORD00232,2025-08-20,CUST112,P007,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00232 - system ref 00232
+ORD00233,2025-08-21,CUST113,P008,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00233 - system ref 00233
+ORD00234,2025-08-22,CUST114,P009,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00234 - system ref 00234
+ORD00235,2025-08-23,CUST115,P010,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00235 - system ref 00235
+ORD00236,2025-08-24,CUST116,P011,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00236 - system ref 00236
+ORD00237,2025-08-25,CUST117,P012,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00237 - system ref 00237
+ORD00238,2025-08-26,CUST118,P013,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00238 - system ref 00238
+ORD00239,2025-08-27,CUST119,P014,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00239 - system ref 00239
+ORD00240,2025-08-28,CUST120,P015,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00240 - system ref 00240
+ORD00241,2025-08-29,CUST001,P016,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00241 - system ref 00241
+ORD00242,2025-08-30,CUST002,P017,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00242 - system ref 00242
+ORD00243,2025-08-31,CUST003,P018,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00243 - system ref 00243
+ORD00244,2025-09-01,CUST004,P019,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00244 - system ref 00244
+ORD00245,2025-09-02,CUST005,P020,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00245 - system ref 00245
+ORD00246,2025-09-03,CUST006,P021,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00246 - system ref 00246
+ORD00247,2025-09-04,CUST007,P022,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00247 - system ref 00247
+ORD00248,2025-09-05,CUST008,P023,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00248 - system ref 00248
+ORD00249,2025-09-06,CUST009,P024,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00249 - system ref 00249
+ORD00250,2025-09-07,CUST010,P025,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00250 - system ref 00250
+ORD00251,2025-09-08,CUST011,P001,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00251 - system ref 00251
+ORD00252,2025-09-09,CUST012,P002,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00252 - system ref 00252
+ORD00253,2025-09-10,CUST013,P003,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00253 - system ref 00253
+ORD00254,2025-09-11,CUST014,P004,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00254 - system ref 00254
+ORD00255,2025-09-12,CUST015,P005,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00255 - system ref 00255
+ORD00256,2025-09-13,CUST016,P006,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00256 - system ref 00256
+ORD00257,2025-09-14,CUST017,P007,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00257 - system ref 00257
+ORD00258,2025-09-15,CUST018,P008,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00258 - system ref 00258
+ORD00259,2025-09-16,CUST019,P009,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00259 - system ref 00259
+ORD00260,2025-09-17,CUST020,P010,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00260 - system ref 00260
+ORD00261,2025-09-18,CUST021,P011,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00261 - system ref 00261
+ORD00262,2025-09-19,CUST022,P012,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00262 - system ref 00262
+ORD00263,2025-09-20,CUST023,P013,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00263 - system ref 00263
+ORD00264,2025-09-21,CUST024,P014,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00264 - system ref 00264
+ORD00265,2025-09-22,CUST025,P015,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00265 - system ref 00265
+ORD00266,2025-09-23,CUST026,P016,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00266 - system ref 00266
+ORD00267,2025-09-24,CUST027,P017,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00267 - system ref 00267
+ORD00268,2025-09-25,CUST028,P018,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00268 - system ref 00268
+ORD00269,2025-09-26,CUST029,P019,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00269 - system ref 00269
+ORD00270,2025-09-27,CUST030,P020,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00270 - system ref 00270
+ORD00271,2025-09-28,CUST031,P021,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00271 - system ref 00271
+ORD00272,2025-09-29,CUST032,P022,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00272 - system ref 00272
+ORD00273,2025-09-30,CUST033,P023,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00273 - system ref 00273
+ORD00274,2025-10-01,CUST034,P024,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00274 - system ref 00274
+ORD00275,2025-10-02,CUST035,P025,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00275 - system ref 00275
+ORD00276,2025-10-03,CUST036,P001,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00276 - system ref 00276
+ORD00277,2025-10-04,CUST037,P002,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00277 - system ref 00277
+ORD00278,2025-10-05,CUST038,P003,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00278 - system ref 00278
+ORD00279,2025-10-06,CUST039,P004,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00279 - system ref 00279
+ORD00280,2025-10-07,CUST040,P005,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00280 - system ref 00280
+ORD00281,2025-10-08,CUST041,P006,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00281 - system ref 00281
+ORD00282,2025-10-09,CUST042,P007,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00282 - system ref 00282
+ORD00283,2025-10-10,CUST043,P008,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00283 - system ref 00283
+ORD00284,2025-10-11,CUST044,P009,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00284 - system ref 00284
+ORD00285,2025-10-12,CUST045,P010,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00285 - system ref 00285
+ORD00286,2025-10-13,CUST046,P011,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00286 - system ref 00286
+ORD00287,2025-10-14,CUST047,P012,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00287 - system ref 00287
+ORD00288,2025-10-15,CUST048,P013,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00288 - system ref 00288
+ORD00289,2025-10-16,CUST049,P014,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00289 - system ref 00289
+ORD00290,2025-10-17,CUST050,P015,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00290 - system ref 00290
+ORD00291,2025-10-18,CUST051,P016,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00291 - system ref 00291
+ORD00292,2025-10-19,CUST052,P017,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00292 - system ref 00292
+ORD00293,2025-10-20,CUST053,P018,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00293 - system ref 00293
+ORD00294,2025-10-21,CUST054,P019,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00294 - system ref 00294
+ORD00295,2025-10-22,CUST055,P020,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00295 - system ref 00295
+ORD00296,2025-10-23,CUST056,P021,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00296 - system ref 00296
+ORD00297,2025-10-24,CUST057,P022,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00297 - system ref 00297
+ORD00298,2025-10-25,CUST058,P023,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00298 - system ref 00298
+ORD00299,2025-10-26,CUST059,P024,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00299 - system ref 00299
+ORD00300,2025-10-27,CUST060,P025,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00300 - system ref 00300
+ORD00301,2025-10-28,CUST061,P001,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00301 - system ref 00301
+ORD00302,2025-10-29,CUST062,P002,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00302 - system ref 00302
+ORD00303,2025-10-30,CUST063,P003,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00303 - system ref 00303
+ORD00304,2025-10-31,CUST064,P004,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00304 - system ref 00304
+ORD00305,2025-11-01,CUST065,P005,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00305 - system ref 00305
+ORD00306,2025-11-02,CUST066,P006,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00306 - system ref 00306
+ORD00307,2025-11-03,CUST067,P007,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00307 - system ref 00307
+ORD00308,2025-11-04,CUST068,P008,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00308 - system ref 00308
+ORD00309,2025-11-05,CUST069,P009,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00309 - system ref 00309
+ORD00310,2025-11-06,CUST070,P010,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00310 - system ref 00310
+ORD00311,2025-11-07,CUST071,P011,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00311 - system ref 00311
+ORD00312,2025-11-08,CUST072,P012,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00312 - system ref 00312
+ORD00313,2025-11-09,CUST073,P013,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00313 - system ref 00313
+ORD00314,2025-11-10,CUST074,P014,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00314 - system ref 00314
+ORD00315,2025-11-11,CUST075,P015,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00315 - system ref 00315
+ORD00316,2025-11-12,CUST076,P016,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00316 - system ref 00316
+ORD00317,2025-11-13,CUST077,P017,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00317 - system ref 00317
+ORD00318,2025-11-14,CUST078,P018,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00318 - system ref 00318
+ORD00319,2025-11-15,CUST079,P019,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00319 - system ref 00319
+ORD00320,2025-11-16,CUST080,P020,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00320 - system ref 00320
+ORD00321,2025-11-17,CUST081,P021,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00321 - system ref 00321
+ORD00322,2025-11-18,CUST082,P022,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00322 - system ref 00322
+ORD00323,2025-11-19,CUST083,P023,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00323 - system ref 00323
+ORD00324,2025-11-20,CUST084,P024,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00324 - system ref 00324
+ORD00325,2025-11-21,CUST085,P025,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00325 - system ref 00325
+ORD00326,2025-11-22,CUST086,P001,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00326 - system ref 00326
+ORD00327,2025-11-23,CUST087,P002,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00327 - system ref 00327
+ORD00328,2025-11-24,CUST088,P003,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00328 - system ref 00328
+ORD00329,2025-11-25,CUST089,P004,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00329 - system ref 00329
+ORD00330,2025-11-26,CUST090,P005,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00330 - system ref 00330
+ORD00331,2025-11-27,CUST091,P006,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00331 - system ref 00331
+ORD00332,2025-11-28,CUST092,P007,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00332 - system ref 00332
+ORD00333,2025-11-29,CUST093,P008,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00333 - system ref 00333
+ORD00334,2025-11-30,CUST094,P009,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00334 - system ref 00334
+ORD00335,2025-12-01,CUST095,P010,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00335 - system ref 00335
+ORD00336,2025-12-02,CUST096,P011,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00336 - system ref 00336
+ORD00337,2025-12-03,CUST097,P012,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00337 - system ref 00337
+ORD00338,2025-12-04,CUST098,P013,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00338 - system ref 00338
+ORD00339,2025-12-05,CUST099,P014,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00339 - system ref 00339
+ORD00340,2025-12-06,CUST100,P015,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00340 - system ref 00340
+ORD00341,2025-12-07,CUST101,P016,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00341 - system ref 00341
+ORD00342,2025-12-08,CUST102,P017,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00342 - system ref 00342
+ORD00343,2025-12-09,CUST103,P018,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00343 - system ref 00343
+ORD00344,2025-12-10,CUST104,P019,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00344 - system ref 00344
+ORD00345,2025-12-11,CUST105,P020,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00345 - system ref 00345
+ORD00346,2025-12-12,CUST106,P021,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00346 - system ref 00346
+ORD00347,2025-12-13,CUST107,P022,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00347 - system ref 00347
+ORD00348,2025-12-14,CUST108,P023,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00348 - system ref 00348
+ORD00349,2025-12-15,CUST109,P024,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00349 - system ref 00349
+ORD00350,2025-12-16,CUST110,P025,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00350 - system ref 00350
+ORD00351,2025-12-17,CUST111,P001,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00351 - system ref 00351
+ORD00352,2025-12-18,CUST112,P002,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00352 - system ref 00352
+ORD00353,2025-12-19,CUST113,P003,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00353 - system ref 00353
+ORD00354,2025-12-20,CUST114,P004,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00354 - system ref 00354
+ORD00355,2025-12-21,CUST115,P005,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00355 - system ref 00355
+ORD00356,2025-12-22,CUST116,P006,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00356 - system ref 00356
+ORD00357,2025-12-23,CUST117,P007,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00357 - system ref 00357
+ORD00358,2025-12-24,CUST118,P008,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00358 - system ref 00358
+ORD00359,2025-12-25,CUST119,P009,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00359 - system ref 00359
+ORD00360,2025-12-26,CUST120,P010,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00360 - system ref 00360
+ORD00361,2025-12-27,CUST001,P011,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00361 - system ref 00361
+ORD00362,2025-12-28,CUST002,P012,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00362 - system ref 00362
+ORD00363,2025-12-29,CUST003,P013,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00363 - system ref 00363
+ORD00364,2025-12-30,CUST004,P014,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00364 - system ref 00364
+ORD00365,2025-12-31,CUST005,P015,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00365 - system ref 00365
+ORD00366,2026-01-01,CUST006,P016,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00366 - system ref 00366
+ORD00367,2026-01-02,CUST007,P017,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00367 - system ref 00367
+ORD00368,2026-01-03,CUST008,P018,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00368 - system ref 00368
+ORD00369,2026-01-04,CUST009,P019,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00369 - system ref 00369
+ORD00370,2026-01-05,CUST010,P020,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00370 - system ref 00370
+ORD00371,2026-01-06,CUST011,P021,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00371 - system ref 00371
+ORD00372,2026-01-07,CUST012,P022,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00372 - system ref 00372
+ORD00373,2026-01-08,CUST013,P023,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00373 - system ref 00373
+ORD00374,2026-01-09,CUST014,P024,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00374 - system ref 00374
+ORD00375,2026-01-10,CUST015,P025,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00375 - system ref 00375
+ORD00376,2026-01-11,CUST016,P001,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00376 - system ref 00376
+ORD00377,2026-01-12,CUST017,P002,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00377 - system ref 00377
+ORD00378,2026-01-13,CUST018,P003,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00378 - system ref 00378
+ORD00379,2026-01-14,CUST019,P004,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00379 - system ref 00379
+ORD00380,2026-01-15,CUST020,P005,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00380 - system ref 00380
+ORD00381,2026-01-16,CUST021,P006,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00381 - system ref 00381
+ORD00382,2026-01-17,CUST022,P007,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00382 - system ref 00382
+ORD00383,2026-01-18,CUST023,P008,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00383 - system ref 00383
+ORD00384,2026-01-19,CUST024,P009,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00384 - system ref 00384
+ORD00385,2026-01-20,CUST025,P010,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00385 - system ref 00385
+ORD00386,2026-01-21,CUST026,P011,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00386 - system ref 00386
+ORD00387,2026-01-22,CUST027,P012,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00387 - system ref 00387
+ORD00388,2026-01-23,CUST028,P013,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00388 - system ref 00388
+ORD00389,2026-01-24,CUST029,P014,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00389 - system ref 00389
+ORD00390,2026-01-25,CUST030,P015,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00390 - system ref 00390
+ORD00391,2026-01-26,CUST031,P016,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00391 - system ref 00391
+ORD00392,2026-01-27,CUST032,P017,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00392 - system ref 00392
+ORD00393,2026-01-28,CUST033,P018,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00393 - system ref 00393
+ORD00394,2026-01-29,CUST034,P019,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00394 - system ref 00394
+ORD00395,2026-01-30,CUST035,P020,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00395 - system ref 00395
+ORD00396,2026-01-31,CUST036,P021,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00396 - system ref 00396
+ORD00397,2026-02-01,CUST037,P022,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00397 - system ref 00397
+ORD00398,2026-02-02,CUST038,P023,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00398 - system ref 00398
+ORD00399,2026-02-03,CUST039,P024,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00399 - system ref 00399
+ORD00400,2026-02-04,CUST040,P025,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00400 - system ref 00400
+ORD00401,2026-02-05,CUST041,P001,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00401 - system ref 00401
+ORD00402,2026-02-06,CUST042,P002,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00402 - system ref 00402
+ORD00403,2026-02-07,CUST043,P003,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00403 - system ref 00403
+ORD00404,2026-02-08,CUST044,P004,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00404 - system ref 00404
+ORD00405,2026-02-09,CUST045,P005,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00405 - system ref 00405
+ORD00406,2026-02-10,CUST046,P006,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00406 - system ref 00406
+ORD00407,2026-02-11,CUST047,P007,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00407 - system ref 00407
+ORD00408,2026-02-12,CUST048,P008,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00408 - system ref 00408
+ORD00409,2026-02-13,CUST049,P009,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00409 - system ref 00409
+ORD00410,2026-02-14,CUST050,P010,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00410 - system ref 00410
+ORD00411,2026-02-15,CUST051,P011,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00411 - system ref 00411
+ORD00412,2026-02-16,CUST052,P012,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00412 - system ref 00412
+ORD00413,2026-02-17,CUST053,P013,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00413 - system ref 00413
+ORD00414,2026-02-18,CUST054,P014,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00414 - system ref 00414
+ORD00415,2026-02-19,CUST055,P015,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00415 - system ref 00415
+ORD00416,2026-02-20,CUST056,P016,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00416 - system ref 00416
+ORD00417,2026-02-21,CUST057,P017,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00417 - system ref 00417
+ORD00418,2026-02-22,CUST058,P018,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00418 - system ref 00418
+ORD00419,2026-02-23,CUST059,P019,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00419 - system ref 00419
+ORD00420,2026-02-24,CUST060,P020,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00420 - system ref 00420
+ORD00421,2026-02-25,CUST061,P021,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00421 - system ref 00421
+ORD00422,2026-02-26,CUST062,P022,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00422 - system ref 00422
+ORD00423,2026-02-27,CUST063,P023,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00423 - system ref 00423
+ORD00424,2026-02-28,CUST064,P024,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00424 - system ref 00424
+ORD00425,2026-03-01,CUST065,P025,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00425 - system ref 00425
+ORD00426,2026-03-02,CUST066,P001,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00426 - system ref 00426
+ORD00427,2026-03-03,CUST067,P002,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00427 - system ref 00427
+ORD00428,2026-03-04,CUST068,P003,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00428 - system ref 00428
+ORD00429,2026-03-05,CUST069,P004,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00429 - system ref 00429
+ORD00430,2026-03-06,CUST070,P005,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00430 - system ref 00430
+ORD00431,2026-03-07,CUST071,P006,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00431 - system ref 00431
+ORD00432,2026-03-08,CUST072,P007,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00432 - system ref 00432
+ORD00433,2026-03-09,CUST073,P008,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00433 - system ref 00433
+ORD00434,2026-03-10,CUST074,P009,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00434 - system ref 00434
+ORD00435,2026-03-11,CUST075,P010,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00435 - system ref 00435
+ORD00436,2026-03-12,CUST076,P011,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00436 - system ref 00436
+ORD00437,2026-03-13,CUST077,P012,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00437 - system ref 00437
+ORD00438,2026-03-14,CUST078,P013,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00438 - system ref 00438
+ORD00439,2026-03-15,CUST079,P014,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00439 - system ref 00439
+ORD00440,2026-03-16,CUST080,P015,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00440 - system ref 00440
+ORD00441,2026-03-17,CUST081,P016,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00441 - system ref 00441
+ORD00442,2026-03-18,CUST082,P017,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00442 - system ref 00442
+ORD00443,2026-03-19,CUST083,P018,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00443 - system ref 00443
+ORD00444,2026-03-20,CUST084,P019,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00444 - system ref 00444
+ORD00445,2026-03-21,CUST085,P020,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00445 - system ref 00445
+ORD00446,2026-03-22,CUST086,P021,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00446 - system ref 00446
+ORD00447,2026-03-23,CUST087,P022,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00447 - system ref 00447
+ORD00448,2026-03-24,CUST088,P023,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00448 - system ref 00448
+ORD00449,2026-03-25,CUST089,P024,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00449 - system ref 00449
+ORD00450,2026-03-26,CUST090,P025,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00450 - system ref 00450
+ORD00451,2026-03-27,CUST091,P001,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00451 - system ref 00451
+ORD00452,2026-03-28,CUST092,P002,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00452 - system ref 00452
+ORD00453,2026-03-29,CUST093,P003,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00453 - system ref 00453
+ORD00454,2026-03-30,CUST094,P004,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00454 - system ref 00454
+ORD00455,2026-03-31,CUST095,P005,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00455 - system ref 00455
+ORD00456,2026-04-01,CUST096,P006,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00456 - system ref 00456
+ORD00457,2026-04-02,CUST097,P007,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00457 - system ref 00457
+ORD00458,2026-04-03,CUST098,P008,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00458 - system ref 00458
+ORD00459,2026-04-04,CUST099,P009,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00459 - system ref 00459
+ORD00460,2026-04-05,CUST100,P010,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00460 - system ref 00460
+ORD00461,2026-04-06,CUST101,P011,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00461 - system ref 00461
+ORD00462,2026-04-07,CUST102,P012,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00462 - system ref 00462
+ORD00463,2026-04-08,CUST103,P013,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00463 - system ref 00463
+ORD00464,2026-04-09,CUST104,P014,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00464 - system ref 00464
+ORD00465,2026-04-10,CUST105,P015,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00465 - system ref 00465
+ORD00466,2026-04-11,CUST106,P016,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00466 - system ref 00466
+ORD00467,2026-04-12,CUST107,P017,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00467 - system ref 00467
+ORD00468,2026-04-13,CUST108,P018,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00468 - system ref 00468
+ORD00469,2026-04-14,CUST109,P019,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00469 - system ref 00469
+ORD00470,2026-04-15,CUST110,P020,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00470 - system ref 00470
+ORD00471,2026-04-16,CUST111,P021,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00471 - system ref 00471
+ORD00472,2026-04-17,CUST112,P022,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00472 - system ref 00472
+ORD00473,2026-04-18,CUST113,P023,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00473 - system ref 00473
+ORD00474,2026-04-19,CUST114,P024,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00474 - system ref 00474
+ORD00475,2026-04-20,CUST115,P025,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00475 - system ref 00475
+ORD00476,2026-04-21,CUST116,P001,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00476 - system ref 00476
+ORD00477,2026-04-22,CUST117,P002,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00477 - system ref 00477
+ORD00478,2026-04-23,CUST118,P003,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00478 - system ref 00478
+ORD00479,2026-04-24,CUST119,P004,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00479 - system ref 00479
+ORD00480,2026-04-25,CUST120,P005,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00480 - system ref 00480
+ORD00481,2026-04-26,CUST001,P006,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00481 - system ref 00481
+ORD00482,2026-04-27,CUST002,P007,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00482 - system ref 00482
+ORD00483,2026-04-28,CUST003,P008,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00483 - system ref 00483
+ORD00484,2026-04-29,CUST004,P009,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00484 - system ref 00484
+ORD00485,2026-04-30,CUST005,P010,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00485 - system ref 00485
+ORD00486,2026-05-01,CUST006,P011,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00486 - system ref 00486
+ORD00487,2026-05-02,CUST007,P012,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00487 - system ref 00487
+ORD00488,2026-05-03,CUST008,P013,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00488 - system ref 00488
+ORD00489,2026-05-04,CUST009,P014,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00489 - system ref 00489
+ORD00490,2026-05-05,CUST010,P015,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00490 - system ref 00490
+ORD00491,2026-05-06,CUST011,P016,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00491 - system ref 00491
+ORD00492,2026-05-07,CUST012,P017,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00492 - system ref 00492
+ORD00493,2026-05-08,CUST013,P018,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00493 - system ref 00493
+ORD00494,2026-05-09,CUST014,P019,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00494 - system ref 00494
+ORD00495,2026-05-10,CUST015,P020,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00495 - system ref 00495
+ORD00496,2026-05-11,CUST016,P021,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00496 - system ref 00496
+ORD00497,2026-05-12,CUST017,P022,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00497 - system ref 00497
+ORD00498,2026-05-13,CUST018,P023,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00498 - system ref 00498
+ORD00499,2026-05-14,CUST019,P024,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00499 - system ref 00499
+ORD00500,2026-05-15,CUST020,P025,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00500 - system ref 00500
+ORD00501,2026-05-16,CUST021,P001,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00501 - system ref 00501
+ORD00502,2026-05-17,CUST022,P002,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00502 - system ref 00502
+ORD00503,2026-05-18,CUST023,P003,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00503 - system ref 00503
+ORD00504,2026-05-19,CUST024,P004,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00504 - system ref 00504
+ORD00505,2026-05-20,CUST025,P005,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00505 - system ref 00505
+ORD00506,2026-05-21,CUST026,P006,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00506 - system ref 00506
+ORD00507,2026-05-22,CUST027,P007,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00507 - system ref 00507
+ORD00508,2026-05-23,CUST028,P008,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00508 - system ref 00508
+ORD00509,2026-05-24,CUST029,P009,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00509 - system ref 00509
+ORD00510,2026-05-25,CUST030,P010,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00510 - system ref 00510
+ORD00511,2026-05-26,CUST031,P011,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00511 - system ref 00511
+ORD00512,2026-05-27,CUST032,P012,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00512 - system ref 00512
+ORD00513,2026-05-28,CUST033,P013,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00513 - system ref 00513
+ORD00514,2026-05-29,CUST034,P014,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00514 - system ref 00514
+ORD00515,2026-05-30,CUST035,P015,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00515 - system ref 00515
+ORD00516,2026-05-31,CUST036,P016,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00516 - system ref 00516
+ORD00517,2026-06-01,CUST037,P017,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00517 - system ref 00517
+ORD00518,2026-06-02,CUST038,P018,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00518 - system ref 00518
+ORD00519,2026-06-03,CUST039,P019,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00519 - system ref 00519
+ORD00520,2026-06-04,CUST040,P020,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00520 - system ref 00520
+ORD00521,2026-06-05,CUST041,P021,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00521 - system ref 00521
+ORD00522,2026-06-06,CUST042,P022,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00522 - system ref 00522
+ORD00523,2026-06-07,CUST043,P023,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00523 - system ref 00523
+ORD00524,2026-06-08,CUST044,P024,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00524 - system ref 00524
+ORD00525,2026-06-09,CUST045,P025,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00525 - system ref 00525
+ORD00526,2026-06-10,CUST046,P001,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00526 - system ref 00526
+ORD00527,2026-06-11,CUST047,P002,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00527 - system ref 00527
+ORD00528,2026-06-12,CUST048,P003,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00528 - system ref 00528
+ORD00529,2026-06-13,CUST049,P004,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00529 - system ref 00529
+ORD00530,2026-06-14,CUST050,P005,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00530 - system ref 00530
+ORD00531,2026-06-15,CUST051,P006,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00531 - system ref 00531
+ORD00532,2026-06-16,CUST052,P007,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00532 - system ref 00532
+ORD00533,2026-06-17,CUST053,P008,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00533 - system ref 00533
+ORD00534,2026-06-18,CUST054,P009,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00534 - system ref 00534
+ORD00535,2026-06-19,CUST055,P010,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00535 - system ref 00535
+ORD00536,2026-06-20,CUST056,P011,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00536 - system ref 00536
+ORD00537,2026-06-21,CUST057,P012,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00537 - system ref 00537
+ORD00538,2026-06-22,CUST058,P013,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00538 - system ref 00538
+ORD00539,2026-06-23,CUST059,P014,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00539 - system ref 00539
+ORD00540,2026-06-24,CUST060,P015,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00540 - system ref 00540
+ORD00541,2026-06-25,CUST061,P016,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00541 - system ref 00541
+ORD00542,2026-06-26,CUST062,P017,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00542 - system ref 00542
+ORD00543,2026-06-27,CUST063,P018,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00543 - system ref 00543
+ORD00544,2026-06-28,CUST064,P019,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00544 - system ref 00544
+ORD00545,2026-06-29,CUST065,P020,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00545 - system ref 00545
+ORD00546,2026-06-30,CUST066,P021,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00546 - system ref 00546
+ORD00547,2026-07-01,CUST067,P022,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00547 - system ref 00547
+ORD00548,2026-07-02,CUST068,P023,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00548 - system ref 00548
+ORD00549,2026-07-03,CUST069,P024,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00549 - system ref 00549
+ORD00550,2026-07-04,CUST070,P025,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00550 - system ref 00550
+ORD00551,2026-07-05,CUST071,P001,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00551 - system ref 00551
+ORD00552,2026-07-06,CUST072,P002,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00552 - system ref 00552
+ORD00553,2026-07-07,CUST073,P003,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00553 - system ref 00553
+ORD00554,2026-07-08,CUST074,P004,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00554 - system ref 00554
+ORD00555,2026-07-09,CUST075,P005,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00555 - system ref 00555
+ORD00556,2026-07-10,CUST076,P006,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00556 - system ref 00556
+ORD00557,2026-07-11,CUST077,P007,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00557 - system ref 00557
+ORD00558,2026-07-12,CUST078,P008,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00558 - system ref 00558
+ORD00559,2026-07-13,CUST079,P009,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00559 - system ref 00559
+ORD00560,2026-07-14,CUST080,P010,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00560 - system ref 00560
+ORD00561,2026-07-15,CUST081,P011,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00561 - system ref 00561
+ORD00562,2026-07-16,CUST082,P012,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00562 - system ref 00562
+ORD00563,2026-07-17,CUST083,P013,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00563 - system ref 00563
+ORD00564,2026-07-18,CUST084,P014,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00564 - system ref 00564
+ORD00565,2026-07-19,CUST085,P015,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00565 - system ref 00565
+ORD00566,2026-07-20,CUST086,P016,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00566 - system ref 00566
+ORD00567,2026-07-21,CUST087,P017,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00567 - system ref 00567
+ORD00568,2026-07-22,CUST088,P018,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00568 - system ref 00568
+ORD00569,2026-07-23,CUST089,P019,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00569 - system ref 00569
+ORD00570,2026-07-24,CUST090,P020,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00570 - system ref 00570
+ORD00571,2026-07-25,CUST091,P021,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00571 - system ref 00571
+ORD00572,2026-07-26,CUST092,P022,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00572 - system ref 00572
+ORD00573,2026-07-27,CUST093,P023,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00573 - system ref 00573
+ORD00574,2026-07-28,CUST094,P024,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00574 - system ref 00574
+ORD00575,2026-07-29,CUST095,P025,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00575 - system ref 00575
+ORD00576,2026-07-30,CUST096,P001,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00576 - system ref 00576
+ORD00577,2026-07-31,CUST097,P002,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00577 - system ref 00577
+ORD00578,2026-08-01,CUST098,P003,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00578 - system ref 00578
+ORD00579,2026-08-02,CUST099,P004,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00579 - system ref 00579
+ORD00580,2026-08-03,CUST100,P005,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00580 - system ref 00580
+ORD00581,2026-08-04,CUST101,P006,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00581 - system ref 00581
+ORD00582,2026-08-05,CUST102,P007,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00582 - system ref 00582
+ORD00583,2026-08-06,CUST103,P008,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00583 - system ref 00583
+ORD00584,2026-08-07,CUST104,P009,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00584 - system ref 00584
+ORD00585,2026-08-08,CUST105,P010,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00585 - system ref 00585
+ORD00586,2026-08-09,CUST106,P011,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00586 - system ref 00586
+ORD00587,2026-08-10,CUST107,P012,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00587 - system ref 00587
+ORD00588,2026-08-11,CUST108,P013,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00588 - system ref 00588
+ORD00589,2026-08-12,CUST109,P014,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00589 - system ref 00589
+ORD00590,2026-08-13,CUST110,P015,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00590 - system ref 00590
+ORD00591,2026-08-14,CUST111,P016,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00591 - system ref 00591
+ORD00592,2026-08-15,CUST112,P017,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00592 - system ref 00592
+ORD00593,2026-08-16,CUST113,P018,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00593 - system ref 00593
+ORD00594,2026-08-17,CUST114,P019,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00594 - system ref 00594
+ORD00595,2026-08-18,CUST115,P020,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00595 - system ref 00595
+ORD00596,2026-08-19,CUST116,P021,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00596 - system ref 00596
+ORD00597,2026-08-20,CUST117,P022,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00597 - system ref 00597
+ORD00598,2026-08-21,CUST118,P023,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00598 - system ref 00598
+ORD00599,2026-08-22,CUST119,P024,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00599 - system ref 00599
+ORD00600,2026-08-23,CUST120,P025,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00600 - system ref 00600
+ORD00601,2026-08-24,CUST001,P001,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00601 - system ref 00601
+ORD00602,2026-08-25,CUST002,P002,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00602 - system ref 00602
+ORD00603,2026-08-26,CUST003,P003,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00603 - system ref 00603
+ORD00604,2026-08-27,CUST004,P004,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00604 - system ref 00604
+ORD00605,2026-08-28,CUST005,P005,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00605 - system ref 00605
+ORD00606,2026-08-29,CUST006,P006,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00606 - system ref 00606
+ORD00607,2026-08-30,CUST007,P007,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00607 - system ref 00607
+ORD00608,2026-08-31,CUST008,P008,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00608 - system ref 00608
+ORD00609,2026-09-01,CUST009,P009,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00609 - system ref 00609
+ORD00610,2026-09-02,CUST010,P010,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00610 - system ref 00610
+ORD00611,2026-09-03,CUST011,P011,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00611 - system ref 00611
+ORD00612,2026-09-04,CUST012,P012,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00612 - system ref 00612
+ORD00613,2026-09-05,CUST013,P013,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00613 - system ref 00613
+ORD00614,2026-09-06,CUST014,P014,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00614 - system ref 00614
+ORD00615,2026-09-07,CUST015,P015,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00615 - system ref 00615
+ORD00616,2026-09-08,CUST016,P016,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00616 - system ref 00616
+ORD00617,2026-09-09,CUST017,P017,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00617 - system ref 00617
+ORD00618,2026-09-10,CUST018,P018,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00618 - system ref 00618
+ORD00619,2026-09-11,CUST019,P019,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00619 - system ref 00619
+ORD00620,2026-09-12,CUST020,P020,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00620 - system ref 00620
+ORD00621,2026-09-13,CUST021,P021,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00621 - system ref 00621
+ORD00622,2026-09-14,CUST022,P022,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00622 - system ref 00622
+ORD00623,2026-09-15,CUST023,P023,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00623 - system ref 00623
+ORD00624,2026-09-16,CUST024,P024,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00624 - system ref 00624
+ORD00625,2026-09-17,CUST025,P025,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00625 - system ref 00625
+ORD00626,2026-09-18,CUST026,P001,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00626 - system ref 00626
+ORD00627,2026-09-19,CUST027,P002,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00627 - system ref 00627
+ORD00628,2026-09-20,CUST028,P003,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00628 - system ref 00628
+ORD00629,2026-09-21,CUST029,P004,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00629 - system ref 00629
+ORD00630,2026-09-22,CUST030,P005,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00630 - system ref 00630
+ORD00631,2026-09-23,CUST031,P006,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00631 - system ref 00631
+ORD00632,2026-09-24,CUST032,P007,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00632 - system ref 00632
+ORD00633,2026-09-25,CUST033,P008,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00633 - system ref 00633
+ORD00634,2026-09-26,CUST034,P009,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00634 - system ref 00634
+ORD00635,2026-09-27,CUST035,P010,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00635 - system ref 00635
+ORD00636,2026-09-28,CUST036,P011,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00636 - system ref 00636
+ORD00637,2026-09-29,CUST037,P012,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00637 - system ref 00637
+ORD00638,2026-09-30,CUST038,P013,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00638 - system ref 00638
+ORD00639,2026-10-01,CUST039,P014,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00639 - system ref 00639
+ORD00640,2026-10-02,CUST040,P015,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00640 - system ref 00640
+ORD00641,2026-10-03,CUST041,P016,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00641 - system ref 00641
+ORD00642,2026-10-04,CUST042,P017,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00642 - system ref 00642
+ORD00643,2026-10-05,CUST043,P018,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00643 - system ref 00643
+ORD00644,2026-10-06,CUST044,P019,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00644 - system ref 00644
+ORD00645,2026-10-07,CUST045,P020,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00645 - system ref 00645
+ORD00646,2026-10-08,CUST046,P021,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00646 - system ref 00646
+ORD00647,2026-10-09,CUST047,P022,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00647 - system ref 00647
+ORD00648,2026-10-10,CUST048,P023,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00648 - system ref 00648
+ORD00649,2026-10-11,CUST049,P024,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00649 - system ref 00649
+ORD00650,2026-10-12,CUST050,P025,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00650 - system ref 00650
+ORD00651,2026-10-13,CUST051,P001,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00651 - system ref 00651
+ORD00652,2026-10-14,CUST052,P002,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00652 - system ref 00652
+ORD00653,2026-10-15,CUST053,P003,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00653 - system ref 00653
+ORD00654,2026-10-16,CUST054,P004,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00654 - system ref 00654
+ORD00655,2026-10-17,CUST055,P005,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00655 - system ref 00655
+ORD00656,2026-10-18,CUST056,P006,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00656 - system ref 00656
+ORD00657,2026-10-19,CUST057,P007,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00657 - system ref 00657
+ORD00658,2026-10-20,CUST058,P008,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00658 - system ref 00658
+ORD00659,2026-10-21,CUST059,P009,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00659 - system ref 00659
+ORD00660,2026-10-22,CUST060,P010,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00660 - system ref 00660
+ORD00661,2026-10-23,CUST061,P011,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00661 - system ref 00661
+ORD00662,2026-10-24,CUST062,P012,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00662 - system ref 00662
+ORD00663,2026-10-25,CUST063,P013,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00663 - system ref 00663
+ORD00664,2026-10-26,CUST064,P014,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00664 - system ref 00664
+ORD00665,2026-10-27,CUST065,P015,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00665 - system ref 00665
+ORD00666,2026-10-28,CUST066,P016,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00666 - system ref 00666
+ORD00667,2026-10-29,CUST067,P017,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00667 - system ref 00667
+ORD00668,2026-10-30,CUST068,P018,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00668 - system ref 00668
+ORD00669,2026-10-31,CUST069,P019,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00669 - system ref 00669
+ORD00670,2026-11-01,CUST070,P020,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00670 - system ref 00670
+ORD00671,2026-11-02,CUST071,P021,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00671 - system ref 00671
+ORD00672,2026-11-03,CUST072,P022,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00672 - system ref 00672
+ORD00673,2026-11-04,CUST073,P023,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00673 - system ref 00673
+ORD00674,2026-11-05,CUST074,P024,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00674 - system ref 00674
+ORD00675,2026-11-06,CUST075,P025,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00675 - system ref 00675
+ORD00676,2026-11-07,CUST076,P001,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00676 - system ref 00676
+ORD00677,2026-11-08,CUST077,P002,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00677 - system ref 00677
+ORD00678,2026-11-09,CUST078,P003,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00678 - system ref 00678
+ORD00679,2026-11-10,CUST079,P004,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00679 - system ref 00679
+ORD00680,2026-11-11,CUST080,P005,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00680 - system ref 00680
+ORD00681,2026-11-12,CUST081,P006,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00681 - system ref 00681
+ORD00682,2026-11-13,CUST082,P007,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00682 - system ref 00682
+ORD00683,2026-11-14,CUST083,P008,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00683 - system ref 00683
+ORD00684,2026-11-15,CUST084,P009,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00684 - system ref 00684
+ORD00685,2026-11-16,CUST085,P010,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00685 - system ref 00685
+ORD00686,2026-11-17,CUST086,P011,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00686 - system ref 00686
+ORD00687,2026-11-18,CUST087,P012,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00687 - system ref 00687
+ORD00688,2026-11-19,CUST088,P013,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00688 - system ref 00688
+ORD00689,2026-11-20,CUST089,P014,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00689 - system ref 00689
+ORD00690,2026-11-21,CUST090,P015,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00690 - system ref 00690
+ORD00691,2026-11-22,CUST091,P016,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00691 - system ref 00691
+ORD00692,2026-11-23,CUST092,P017,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00692 - system ref 00692
+ORD00693,2026-11-24,CUST093,P018,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00693 - system ref 00693
+ORD00694,2026-11-25,CUST094,P019,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00694 - system ref 00694
+ORD00695,2026-11-26,CUST095,P020,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00695 - system ref 00695
+ORD00696,2026-11-27,CUST096,P021,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00696 - system ref 00696
+ORD00697,2026-11-28,CUST097,P022,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00697 - system ref 00697
+ORD00698,2026-11-29,CUST098,P023,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00698 - system ref 00698
+ORD00699,2026-11-30,CUST099,P024,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00699 - system ref 00699
+ORD00700,2026-12-01,CUST100,P025,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00700 - system ref 00700
+ORD00701,2026-12-02,CUST101,P001,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00701 - system ref 00701
+ORD00702,2026-12-03,CUST102,P002,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00702 - system ref 00702
+ORD00703,2026-12-04,CUST103,P003,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00703 - system ref 00703
+ORD00704,2026-12-05,CUST104,P004,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00704 - system ref 00704
+ORD00705,2026-12-06,CUST105,P005,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00705 - system ref 00705
+ORD00706,2026-12-07,CUST106,P006,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00706 - system ref 00706
+ORD00707,2026-12-08,CUST107,P007,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00707 - system ref 00707
+ORD00708,2026-12-09,CUST108,P008,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00708 - system ref 00708
+ORD00709,2026-12-10,CUST109,P009,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00709 - system ref 00709
+ORD00710,2026-12-11,CUST110,P010,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00710 - system ref 00710
+ORD00711,2026-12-12,CUST111,P011,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00711 - system ref 00711
+ORD00712,2026-12-13,CUST112,P012,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00712 - system ref 00712
+ORD00713,2026-12-14,CUST113,P013,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00713 - system ref 00713
+ORD00714,2026-12-15,CUST114,P014,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00714 - system ref 00714
+ORD00715,2026-12-16,CUST115,P015,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00715 - system ref 00715
+ORD00716,2026-12-17,CUST116,P016,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00716 - system ref 00716
+ORD00717,2026-12-18,CUST117,P017,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00717 - system ref 00717
+ORD00718,2026-12-19,CUST118,P018,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00718 - system ref 00718
+ORD00719,2026-12-20,CUST119,P019,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00719 - system ref 00719
+ORD00720,2026-12-21,CUST120,P020,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00720 - system ref 00720
+ORD00721,2026-12-22,CUST001,P021,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00721 - system ref 00721
+ORD00722,2026-12-23,CUST002,P022,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00722 - system ref 00722
+ORD00723,2026-12-24,CUST003,P023,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00723 - system ref 00723
+ORD00724,2026-12-25,CUST004,P024,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00724 - system ref 00724
+ORD00725,2026-12-26,CUST005,P025,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00725 - system ref 00725
+ORD00726,2026-12-27,CUST006,P001,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00726 - system ref 00726
+ORD00727,2026-12-28,CUST007,P002,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00727 - system ref 00727
+ORD00728,2026-12-29,CUST008,P003,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00728 - system ref 00728
+ORD00729,2026-12-30,CUST009,P004,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00729 - system ref 00729
+ORD00730,2026-12-31,CUST010,P005,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00730 - system ref 00730
+ORD00731,2027-01-01,CUST011,P006,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00731 - system ref 00731
+ORD00732,2027-01-02,CUST012,P007,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00732 - system ref 00732
+ORD00733,2027-01-03,CUST013,P008,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00733 - system ref 00733
+ORD00734,2027-01-04,CUST014,P009,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00734 - system ref 00734
+ORD00735,2027-01-05,CUST015,P010,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00735 - system ref 00735
+ORD00736,2027-01-06,CUST016,P011,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00736 - system ref 00736
+ORD00737,2027-01-07,CUST017,P012,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00737 - system ref 00737
+ORD00738,2027-01-08,CUST018,P013,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00738 - system ref 00738
+ORD00739,2027-01-09,CUST019,P014,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00739 - system ref 00739
+ORD00740,2027-01-10,CUST020,P015,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00740 - system ref 00740
+ORD00741,2027-01-11,CUST021,P016,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00741 - system ref 00741
+ORD00742,2027-01-12,CUST022,P017,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00742 - system ref 00742
+ORD00743,2027-01-13,CUST023,P018,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00743 - system ref 00743
+ORD00744,2027-01-14,CUST024,P019,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00744 - system ref 00744
+ORD00745,2027-01-15,CUST025,P020,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00745 - system ref 00745
+ORD00746,2027-01-16,CUST026,P021,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00746 - system ref 00746
+ORD00747,2027-01-17,CUST027,P022,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00747 - system ref 00747
+ORD00748,2027-01-18,CUST028,P023,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00748 - system ref 00748
+ORD00749,2027-01-19,CUST029,P024,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00749 - system ref 00749
+ORD00750,2027-01-20,CUST030,P025,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00750 - system ref 00750
+ORD00751,2027-01-21,CUST031,P001,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00751 - system ref 00751
+ORD00752,2027-01-22,CUST032,P002,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00752 - system ref 00752
+ORD00753,2027-01-23,CUST033,P003,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00753 - system ref 00753
+ORD00754,2027-01-24,CUST034,P004,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00754 - system ref 00754
+ORD00755,2027-01-25,CUST035,P005,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00755 - system ref 00755
+ORD00756,2027-01-26,CUST036,P006,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00756 - system ref 00756
+ORD00757,2027-01-27,CUST037,P007,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00757 - system ref 00757
+ORD00758,2027-01-28,CUST038,P008,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00758 - system ref 00758
+ORD00759,2027-01-29,CUST039,P009,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00759 - system ref 00759
+ORD00760,2027-01-30,CUST040,P010,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00760 - system ref 00760
+ORD00761,2027-01-31,CUST041,P011,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00761 - system ref 00761
+ORD00762,2027-02-01,CUST042,P012,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00762 - system ref 00762
+ORD00763,2027-02-02,CUST043,P013,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00763 - system ref 00763
+ORD00764,2027-02-03,CUST044,P014,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00764 - system ref 00764
+ORD00765,2027-02-04,CUST045,P015,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00765 - system ref 00765
+ORD00766,2027-02-05,CUST046,P016,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00766 - system ref 00766
+ORD00767,2027-02-06,CUST047,P017,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00767 - system ref 00767
+ORD00768,2027-02-07,CUST048,P018,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00768 - system ref 00768
+ORD00769,2027-02-08,CUST049,P019,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00769 - system ref 00769
+ORD00770,2027-02-09,CUST050,P020,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00770 - system ref 00770
+ORD00771,2027-02-10,CUST051,P021,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00771 - system ref 00771
+ORD00772,2027-02-11,CUST052,P022,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00772 - system ref 00772
+ORD00773,2027-02-12,CUST053,P023,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00773 - system ref 00773
+ORD00774,2027-02-13,CUST054,P024,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00774 - system ref 00774
+ORD00775,2027-02-14,CUST055,P025,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00775 - system ref 00775
+ORD00776,2027-02-15,CUST056,P001,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00776 - system ref 00776
+ORD00777,2027-02-16,CUST057,P002,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00777 - system ref 00777
+ORD00778,2027-02-17,CUST058,P003,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00778 - system ref 00778
+ORD00779,2027-02-18,CUST059,P004,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00779 - system ref 00779
+ORD00780,2027-02-19,CUST060,P005,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00780 - system ref 00780
+ORD00781,2027-02-20,CUST061,P006,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00781 - system ref 00781
+ORD00782,2027-02-21,CUST062,P007,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00782 - system ref 00782
+ORD00783,2027-02-22,CUST063,P008,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00783 - system ref 00783
+ORD00784,2027-02-23,CUST064,P009,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00784 - system ref 00784
+ORD00785,2027-02-24,CUST065,P010,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00785 - system ref 00785
+ORD00786,2027-02-25,CUST066,P011,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00786 - system ref 00786
+ORD00787,2027-02-26,CUST067,P012,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00787 - system ref 00787
+ORD00788,2027-02-27,CUST068,P013,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00788 - system ref 00788
+ORD00789,2027-02-28,CUST069,P014,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00789 - system ref 00789
+ORD00790,2027-03-01,CUST070,P015,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00790 - system ref 00790
+ORD00791,2027-03-02,CUST071,P016,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00791 - system ref 00791
+ORD00792,2027-03-03,CUST072,P017,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00792 - system ref 00792
+ORD00793,2027-03-04,CUST073,P018,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00793 - system ref 00793
+ORD00794,2027-03-05,CUST074,P019,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00794 - system ref 00794
+ORD00795,2027-03-06,CUST075,P020,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00795 - system ref 00795
+ORD00796,2027-03-07,CUST076,P021,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00796 - system ref 00796
+ORD00797,2027-03-08,CUST077,P022,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00797 - system ref 00797
+ORD00798,2027-03-09,CUST078,P023,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00798 - system ref 00798
+ORD00799,2027-03-10,CUST079,P024,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00799 - system ref 00799
+ORD00800,2027-03-11,CUST080,P025,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00800 - system ref 00800
+ORD00801,2027-03-12,CUST081,P001,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00801 - system ref 00801
+ORD00802,2027-03-13,CUST082,P002,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00802 - system ref 00802
+ORD00803,2027-03-14,CUST083,P003,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00803 - system ref 00803
+ORD00804,2027-03-15,CUST084,P004,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00804 - system ref 00804
+ORD00805,2027-03-16,CUST085,P005,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00805 - system ref 00805
+ORD00806,2027-03-17,CUST086,P006,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00806 - system ref 00806
+ORD00807,2027-03-18,CUST087,P007,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00807 - system ref 00807
+ORD00808,2027-03-19,CUST088,P008,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00808 - system ref 00808
+ORD00809,2027-03-20,CUST089,P009,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00809 - system ref 00809
+ORD00810,2027-03-21,CUST090,P010,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00810 - system ref 00810
+ORD00811,2027-03-22,CUST091,P011,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00811 - system ref 00811
+ORD00812,2027-03-23,CUST092,P012,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00812 - system ref 00812
+ORD00813,2027-03-24,CUST093,P013,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00813 - system ref 00813
+ORD00814,2027-03-25,CUST094,P014,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00814 - system ref 00814
+ORD00815,2027-03-26,CUST095,P015,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00815 - system ref 00815
+ORD00816,2027-03-27,CUST096,P016,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00816 - system ref 00816
+ORD00817,2027-03-28,CUST097,P017,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00817 - system ref 00817
+ORD00818,2027-03-29,CUST098,P018,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00818 - system ref 00818
+ORD00819,2027-03-30,CUST099,P019,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00819 - system ref 00819
+ORD00820,2027-03-31,CUST100,P020,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00820 - system ref 00820
+ORD00821,2027-04-01,CUST101,P021,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00821 - system ref 00821
+ORD00822,2027-04-02,CUST102,P022,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00822 - system ref 00822
+ORD00823,2027-04-03,CUST103,P023,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00823 - system ref 00823
+ORD00824,2027-04-04,CUST104,P024,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00824 - system ref 00824
+ORD00825,2027-04-05,CUST105,P025,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00825 - system ref 00825
+ORD00826,2027-04-06,CUST106,P001,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00826 - system ref 00826
+ORD00827,2027-04-07,CUST107,P002,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00827 - system ref 00827
+ORD00828,2027-04-08,CUST108,P003,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00828 - system ref 00828
+ORD00829,2027-04-09,CUST109,P004,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00829 - system ref 00829
+ORD00830,2027-04-10,CUST110,P005,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00830 - system ref 00830
+ORD00831,2027-04-11,CUST111,P006,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00831 - system ref 00831
+ORD00832,2027-04-12,CUST112,P007,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00832 - system ref 00832
+ORD00833,2027-04-13,CUST113,P008,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00833 - system ref 00833
+ORD00834,2027-04-14,CUST114,P009,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00834 - system ref 00834
+ORD00835,2027-04-15,CUST115,P010,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00835 - system ref 00835
+ORD00836,2027-04-16,CUST116,P011,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00836 - system ref 00836
+ORD00837,2027-04-17,CUST117,P012,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00837 - system ref 00837
+ORD00838,2027-04-18,CUST118,P013,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00838 - system ref 00838
+ORD00839,2027-04-19,CUST119,P014,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00839 - system ref 00839
+ORD00840,2027-04-20,CUST120,P015,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00840 - system ref 00840
+ORD00841,2027-04-21,CUST001,P016,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00841 - system ref 00841
+ORD00842,2027-04-22,CUST002,P017,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00842 - system ref 00842
+ORD00843,2027-04-23,CUST003,P018,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00843 - system ref 00843
+ORD00844,2027-04-24,CUST004,P019,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00844 - system ref 00844
+ORD00845,2027-04-25,CUST005,P020,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00845 - system ref 00845
+ORD00846,2027-04-26,CUST006,P021,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00846 - system ref 00846
+ORD00847,2027-04-27,CUST007,P022,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00847 - system ref 00847
+ORD00848,2027-04-28,CUST008,P023,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00848 - system ref 00848
+ORD00849,2027-04-29,CUST009,P024,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00849 - system ref 00849
+ORD00850,2027-04-30,CUST010,P025,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00850 - system ref 00850
+ORD00851,2027-05-01,CUST011,P001,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00851 - system ref 00851
+ORD00852,2027-05-02,CUST012,P002,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00852 - system ref 00852
+ORD00853,2027-05-03,CUST013,P003,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00853 - system ref 00853
+ORD00854,2027-05-04,CUST014,P004,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00854 - system ref 00854
+ORD00855,2027-05-05,CUST015,P005,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00855 - system ref 00855
+ORD00856,2027-05-06,CUST016,P006,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00856 - system ref 00856
+ORD00857,2027-05-07,CUST017,P007,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00857 - system ref 00857
+ORD00858,2027-05-08,CUST018,P008,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00858 - system ref 00858
+ORD00859,2027-05-09,CUST019,P009,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00859 - system ref 00859
+ORD00860,2027-05-10,CUST020,P010,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00860 - system ref 00860
+ORD00861,2027-05-11,CUST021,P011,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00861 - system ref 00861
+ORD00862,2027-05-12,CUST022,P012,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00862 - system ref 00862
+ORD00863,2027-05-13,CUST023,P013,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00863 - system ref 00863
+ORD00864,2027-05-14,CUST024,P014,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00864 - system ref 00864
+ORD00865,2027-05-15,CUST025,P015,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00865 - system ref 00865
+ORD00866,2027-05-16,CUST026,P016,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00866 - system ref 00866
+ORD00867,2027-05-17,CUST027,P017,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00867 - system ref 00867
+ORD00868,2027-05-18,CUST028,P018,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00868 - system ref 00868
+ORD00869,2027-05-19,CUST029,P019,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00869 - system ref 00869
+ORD00870,2027-05-20,CUST030,P020,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00870 - system ref 00870
+ORD00871,2027-05-21,CUST031,P021,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00871 - system ref 00871
+ORD00872,2027-05-22,CUST032,P022,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00872 - system ref 00872
+ORD00873,2027-05-23,CUST033,P023,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00873 - system ref 00873
+ORD00874,2027-05-24,CUST034,P024,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00874 - system ref 00874
+ORD00875,2027-05-25,CUST035,P025,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00875 - system ref 00875
+ORD00876,2027-05-26,CUST036,P001,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00876 - system ref 00876
+ORD00877,2027-05-27,CUST037,P002,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00877 - system ref 00877
+ORD00878,2027-05-28,CUST038,P003,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00878 - system ref 00878
+ORD00879,2027-05-29,CUST039,P004,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00879 - system ref 00879
+ORD00880,2027-05-30,CUST040,P005,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 00880 - system ref 00880
+ORD00881,2027-05-31,CUST041,P006,Laptop,Accessories,North,Retail,1,65000,0.08,59800.0,Transaction note 00881 - system ref 00881
+ORD00882,2027-06-01,CUST042,P007,Monitor,Office Equipment,South,Partner,2,18000,0.1,32400.0,Transaction note 00882 - system ref 00882
+ORD00883,2027-06-02,CUST043,P008,Keyboard,Electronics,East,Online,3,2200,0.0,6600.0,Transaction note 00883 - system ref 00883
+ORD00884,2027-06-03,CUST044,P009,Mouse,Accessories,West,Retail,4,900,0.02,3528.0,Transaction note 00884 - system ref 00884
+ORD00885,2027-06-04,CUST045,P010,Printer,Office Equipment,North,Partner,5,12500,0.04,60000.0,Transaction note 00885 - system ref 00885
+ORD00886,2027-06-05,CUST046,P011,Laptop,Electronics,South,Online,6,65000,0.06,366600.0,Transaction note 00886 - system ref 00886
+ORD00887,2027-06-06,CUST047,P012,Monitor,Accessories,East,Retail,7,18000,0.08,115920.0,Transaction note 00887 - system ref 00887
+ORD00888,2027-06-07,CUST048,P013,Keyboard,Office Equipment,West,Partner,8,2200,0.1,15840.0,Transaction note 00888 - system ref 00888
+ORD00889,2027-06-08,CUST049,P014,Mouse,Electronics,North,Online,1,900,0.0,900.0,Transaction note 00889 - system ref 00889
+ORD00890,2027-06-09,CUST050,P015,Printer,Accessories,South,Retail,2,12500,0.02,24500.0,Transaction note 00890 - system ref 00890
+ORD00891,2027-06-10,CUST051,P016,Laptop,Office Equipment,East,Partner,3,65000,0.04,187200.0,Transaction note 00891 - system ref 00891
+ORD00892,2027-06-11,CUST052,P017,Monitor,Electronics,West,Online,4,18000,0.06,67680.0,Transaction note 00892 - system ref 00892
+ORD00893,2027-06-12,CUST053,P018,Keyboard,Accessories,North,Retail,5,2200,0.08,10120.0,Transaction note 00893 - system ref 00893
+ORD00894,2027-06-13,CUST054,P019,Mouse,Office Equipment,South,Partner,6,900,0.1,4860.0,Transaction note 00894 - system ref 00894
+ORD00895,2027-06-14,CUST055,P020,Printer,Electronics,East,Online,7,12500,0.0,87500.0,Transaction note 00895 - system ref 00895
+ORD00896,2027-06-15,CUST056,P021,Laptop,Accessories,West,Retail,8,65000,0.02,509600.0,Transaction note 00896 - system ref 00896
+ORD00897,2027-06-16,CUST057,P022,Monitor,Office Equipment,North,Partner,1,18000,0.04,17280.0,Transaction note 00897 - system ref 00897
+ORD00898,2027-06-17,CUST058,P023,Keyboard,Electronics,South,Online,2,2200,0.06,4136.0,Transaction note 00898 - system ref 00898
+ORD00899,2027-06-18,CUST059,P024,Mouse,Accessories,East,Retail,3,900,0.08,2484.0,Transaction note 00899 - system ref 00899
+ORD00900,2027-06-19,CUST060,P025,Printer,Office Equipment,West,Partner,4,12500,0.1,45000.0,Transaction note 00900 - system ref 00900
+ORD00901,2027-06-20,CUST061,P001,Laptop,Electronics,North,Online,5,65000,0.0,325000.0,Transaction note 00901 - system ref 00901
+ORD00902,2027-06-21,CUST062,P002,Monitor,Accessories,South,Retail,6,18000,0.02,105840.0,Transaction note 00902 - system ref 00902
+ORD00903,2027-06-22,CUST063,P003,Keyboard,Office Equipment,East,Partner,7,2200,0.04,14784.0,Transaction note 00903 - system ref 00903
+ORD00904,2027-06-23,CUST064,P004,Mouse,Electronics,West,Online,8,900,0.06,6768.0,Transaction note 00904 - system ref 00904
+ORD00905,2027-06-24,CUST065,P005,Printer,Accessories,North,Retail,1,12500,0.08,11500.0,Transaction note 00905 - system ref 00905
+ORD00906,2027-06-25,CUST066,P006,Laptop,Office Equipment,South,Partner,2,65000,0.1,117000.0,Transaction note 00906 - system ref 00906
+ORD00907,2027-06-26,CUST067,P007,Monitor,Electronics,East,Online,3,18000,0.0,54000.0,Transaction note 00907 - system ref 00907
+ORD00908,2027-06-27,CUST068,P008,Keyboard,Accessories,West,Retail,4,2200,0.02,8624.0,Transaction note 00908 - system ref 00908
+ORD00909,2027-06-28,CUST069,P009,Mouse,Office Equipment,North,Partner,5,900,0.04,4320.0,Transaction note 00909 - system ref 00909
+ORD00910,2027-06-29,CUST070,P010,Printer,Electronics,South,Online,6,12500,0.06,70500.0,Transaction note 00910 - system ref 00910
+ORD00911,2027-06-30,CUST071,P011,Laptop,Accessories,East,Retail,7,65000,0.08,418600.0,Transaction note 00911 - system ref 00911
+ORD00912,2027-07-01,CUST072,P012,Monitor,Office Equipment,West,Partner,8,18000,0.1,129600.0,Transaction note 00912 - system ref 00912
+ORD00913,2027-07-02,CUST073,P013,Keyboard,Electronics,North,Online,1,2200,0.0,2200.0,Transaction note 00913 - system ref 00913
+ORD00914,2027-07-03,CUST074,P014,Mouse,Accessories,South,Retail,2,900,0.02,1764.0,Transaction note 00914 - system ref 00914
+ORD00915,2027-07-04,CUST075,P015,Printer,Office Equipment,East,Partner,3,12500,0.04,36000.0,Transaction note 00915 - system ref 00915
+ORD00916,2027-07-05,CUST076,P016,Laptop,Electronics,West,Online,4,65000,0.06,244400.0,Transaction note 00916 - system ref 00916
+ORD00917,2027-07-06,CUST077,P017,Monitor,Accessories,North,Retail,5,18000,0.08,82800.0,Transaction note 00917 - system ref 00917
+ORD00918,2027-07-07,CUST078,P018,Keyboard,Office Equipment,South,Partner,6,2200,0.1,11880.0,Transaction note 00918 - system ref 00918
+ORD00919,2027-07-08,CUST079,P019,Mouse,Electronics,East,Online,7,900,0.0,6300.0,Transaction note 00919 - system ref 00919
+ORD00920,2027-07-09,CUST080,P020,Printer,Accessories,West,Retail,8,12500,0.02,98000.0,Transaction note 00920 - system ref 00920
+ORD00921,2027-07-10,CUST081,P021,Laptop,Office Equipment,North,Partner,1,65000,0.04,62400.0,Transaction note 00921 - system ref 00921
+ORD00922,2027-07-11,CUST082,P022,Monitor,Electronics,South,Online,2,18000,0.06,33840.0,Transaction note 00922 - system ref 00922
+ORD00923,2027-07-12,CUST083,P023,Keyboard,Accessories,East,Retail,3,2200,0.08,6072.0,Transaction note 00923 - system ref 00923
+ORD00924,2027-07-13,CUST084,P024,Mouse,Office Equipment,West,Partner,4,900,0.1,3240.0,Transaction note 00924 - system ref 00924
+ORD00925,2027-07-14,CUST085,P025,Printer,Electronics,North,Online,5,12500,0.0,62500.0,Transaction note 00925 - system ref 00925
+ORD00926,2027-07-15,CUST086,P001,Laptop,Accessories,South,Retail,6,65000,0.02,382200.0,Transaction note 00926 - system ref 00926
+ORD00927,2027-07-16,CUST087,P002,Monitor,Office Equipment,East,Partner,7,18000,0.04,120960.0,Transaction note 00927 - system ref 00927
+ORD00928,2027-07-17,CUST088,P003,Keyboard,Electronics,West,Online,8,2200,0.06,16544.0,Transaction note 00928 - system ref 00928
+ORD00929,2027-07-18,CUST089,P004,Mouse,Accessories,North,Retail,1,900,0.08,828.0,Transaction note 00929 - system ref 00929
+ORD00930,2027-07-19,CUST090,P005,Printer,Office Equipment,South,Partner,2,12500,0.1,22500.0,Transaction note 00930 - system ref 00930
+ORD00931,2027-07-20,CUST091,P006,Laptop,Electronics,East,Online,3,65000,0.0,195000.0,Transaction note 00931 - system ref 00931
+ORD00932,2027-07-21,CUST092,P007,Monitor,Accessories,West,Retail,4,18000,0.02,70560.0,Transaction note 00932 - system ref 00932
+ORD00933,2027-07-22,CUST093,P008,Keyboard,Office Equipment,North,Partner,5,2200,0.04,10560.0,Transaction note 00933 - system ref 00933
+ORD00934,2027-07-23,CUST094,P009,Mouse,Electronics,South,Online,6,900,0.06,5076.0,Transaction note 00934 - system ref 00934
+ORD00935,2027-07-24,CUST095,P010,Printer,Accessories,East,Retail,7,12500,0.08,80500.0,Transaction note 00935 - system ref 00935
+ORD00936,2027-07-25,CUST096,P011,Laptop,Office Equipment,West,Partner,8,65000,0.1,468000.0,Transaction note 00936 - system ref 00936
+ORD00937,2027-07-26,CUST097,P012,Monitor,Electronics,North,Online,1,18000,0.0,18000.0,Transaction note 00937 - system ref 00937
+ORD00938,2027-07-27,CUST098,P013,Keyboard,Accessories,South,Retail,2,2200,0.02,4312.0,Transaction note 00938 - system ref 00938
+ORD00939,2027-07-28,CUST099,P014,Mouse,Office Equipment,East,Partner,3,900,0.04,2592.0,Transaction note 00939 - system ref 00939
+ORD00940,2027-07-29,CUST100,P015,Printer,Electronics,West,Online,4,12500,0.06,47000.0,Transaction note 00940 - system ref 00940
+ORD00941,2027-07-30,CUST101,P016,Laptop,Accessories,North,Retail,5,65000,0.08,299000.0,Transaction note 00941 - system ref 00941
+ORD00942,2027-07-31,CUST102,P017,Monitor,Office Equipment,South,Partner,6,18000,0.1,97200.0,Transaction note 00942 - system ref 00942
+ORD00943,2027-08-01,CUST103,P018,Keyboard,Electronics,East,Online,7,2200,0.0,15400.0,Transaction note 00943 - system ref 00943
+ORD00944,2027-08-02,CUST104,P019,Mouse,Accessories,West,Retail,8,900,0.02,7056.0,Transaction note 00944 - system ref 00944
+ORD00945,2027-08-03,CUST105,P020,Printer,Office Equipment,North,Partner,1,12500,0.04,12000.0,Transaction note 00945 - system ref 00945
+ORD00946,2027-08-04,CUST106,P021,Laptop,Electronics,South,Online,2,65000,0.06,122200.0,Transaction note 00946 - system ref 00946
+ORD00947,2027-08-05,CUST107,P022,Monitor,Accessories,East,Retail,3,18000,0.08,49680.0,Transaction note 00947 - system ref 00947
+ORD00948,2027-08-06,CUST108,P023,Keyboard,Office Equipment,West,Partner,4,2200,0.1,7920.0,Transaction note 00948 - system ref 00948
+ORD00949,2027-08-07,CUST109,P024,Mouse,Electronics,North,Online,5,900,0.0,4500.0,Transaction note 00949 - system ref 00949
+ORD00950,2027-08-08,CUST110,P025,Printer,Accessories,South,Retail,6,12500,0.02,73500.0,Transaction note 00950 - system ref 00950
+ORD00951,2027-08-09,CUST111,P001,Laptop,Office Equipment,East,Partner,7,65000,0.04,436800.0,Transaction note 00951 - system ref 00951
+ORD00952,2027-08-10,CUST112,P002,Monitor,Electronics,West,Online,8,18000,0.06,135360.0,Transaction note 00952 - system ref 00952
+ORD00953,2027-08-11,CUST113,P003,Keyboard,Accessories,North,Retail,1,2200,0.08,2024.0,Transaction note 00953 - system ref 00953
+ORD00954,2027-08-12,CUST114,P004,Mouse,Office Equipment,South,Partner,2,900,0.1,1620.0,Transaction note 00954 - system ref 00954
+ORD00955,2027-08-13,CUST115,P005,Printer,Electronics,East,Online,3,12500,0.0,37500.0,Transaction note 00955 - system ref 00955
+ORD00956,2027-08-14,CUST116,P006,Laptop,Accessories,West,Retail,4,65000,0.02,254800.0,Transaction note 00956 - system ref 00956
+ORD00957,2027-08-15,CUST117,P007,Monitor,Office Equipment,North,Partner,5,18000,0.04,86400.0,Transaction note 00957 - system ref 00957
+ORD00958,2027-08-16,CUST118,P008,Keyboard,Electronics,South,Online,6,2200,0.06,12408.0,Transaction note 00958 - system ref 00958
+ORD00959,2027-08-17,CUST119,P009,Mouse,Accessories,East,Retail,7,900,0.08,5796.0,Transaction note 00959 - system ref 00959
+ORD00960,2027-08-18,CUST120,P010,Printer,Office Equipment,West,Partner,8,12500,0.1,90000.0,Transaction note 00960 - system ref 00960
+ORD00961,2027-08-19,CUST001,P011,Laptop,Electronics,North,Online,1,65000,0.0,65000.0,Transaction note 00961 - system ref 00961
+ORD00962,2027-08-20,CUST002,P012,Monitor,Accessories,South,Retail,2,18000,0.02,35280.0,Transaction note 00962 - system ref 00962
+ORD00963,2027-08-21,CUST003,P013,Keyboard,Office Equipment,East,Partner,3,2200,0.04,6336.0,Transaction note 00963 - system ref 00963
+ORD00964,2027-08-22,CUST004,P014,Mouse,Electronics,West,Online,4,900,0.06,3384.0,Transaction note 00964 - system ref 00964
+ORD00965,2027-08-23,CUST005,P015,Printer,Accessories,North,Retail,5,12500,0.08,57500.0,Transaction note 00965 - system ref 00965
+ORD00966,2027-08-24,CUST006,P016,Laptop,Office Equipment,South,Partner,6,65000,0.1,351000.0,Transaction note 00966 - system ref 00966
+ORD00967,2027-08-25,CUST007,P017,Monitor,Electronics,East,Online,7,18000,0.0,126000.0,Transaction note 00967 - system ref 00967
+ORD00968,2027-08-26,CUST008,P018,Keyboard,Accessories,West,Retail,8,2200,0.02,17248.0,Transaction note 00968 - system ref 00968
+ORD00969,2027-08-27,CUST009,P019,Mouse,Office Equipment,North,Partner,1,900,0.04,864.0,Transaction note 00969 - system ref 00969
+ORD00970,2027-08-28,CUST010,P020,Printer,Electronics,South,Online,2,12500,0.06,23500.0,Transaction note 00970 - system ref 00970
+ORD00971,2027-08-29,CUST011,P021,Laptop,Accessories,East,Retail,3,65000,0.08,179400.0,Transaction note 00971 - system ref 00971
+ORD00972,2027-08-30,CUST012,P022,Monitor,Office Equipment,West,Partner,4,18000,0.1,64800.0,Transaction note 00972 - system ref 00972
+ORD00973,2027-08-31,CUST013,P023,Keyboard,Electronics,North,Online,5,2200,0.0,11000.0,Transaction note 00973 - system ref 00973
+ORD00974,2027-09-01,CUST014,P024,Mouse,Accessories,South,Retail,6,900,0.02,5292.0,Transaction note 00974 - system ref 00974
+ORD00975,2027-09-02,CUST015,P025,Printer,Office Equipment,East,Partner,7,12500,0.04,84000.0,Transaction note 00975 - system ref 00975
+ORD00976,2027-09-03,CUST016,P001,Laptop,Electronics,West,Online,8,65000,0.06,488800.0,Transaction note 00976 - system ref 00976
+ORD00977,2027-09-04,CUST017,P002,Monitor,Accessories,North,Retail,1,18000,0.08,16560.0,Transaction note 00977 - system ref 00977
+ORD00978,2027-09-05,CUST018,P003,Keyboard,Office Equipment,South,Partner,2,2200,0.1,3960.0,Transaction note 00978 - system ref 00978
+ORD00979,2027-09-06,CUST019,P004,Mouse,Electronics,East,Online,3,900,0.0,2700.0,Transaction note 00979 - system ref 00979
+ORD00980,2027-09-07,CUST020,P005,Printer,Accessories,West,Retail,4,12500,0.02,49000.0,Transaction note 00980 - system ref 00980
+ORD00981,2027-09-08,CUST021,P006,Laptop,Office Equipment,North,Partner,5,65000,0.04,312000.0,Transaction note 00981 - system ref 00981
+ORD00982,2027-09-09,CUST022,P007,Monitor,Electronics,South,Online,6,18000,0.06,101520.0,Transaction note 00982 - system ref 00982
+ORD00983,2027-09-10,CUST023,P008,Keyboard,Accessories,East,Retail,7,2200,0.08,14168.0,Transaction note 00983 - system ref 00983
+ORD00984,2027-09-11,CUST024,P009,Mouse,Office Equipment,West,Partner,8,900,0.1,6480.0,Transaction note 00984 - system ref 00984
+ORD00985,2027-09-12,CUST025,P010,Printer,Electronics,North,Online,1,12500,0.0,12500.0,Transaction note 00985 - system ref 00985
+ORD00986,2027-09-13,CUST026,P011,Laptop,Accessories,South,Retail,2,65000,0.02,127400.0,Transaction note 00986 - system ref 00986
+ORD00987,2027-09-14,CUST027,P012,Monitor,Office Equipment,East,Partner,3,18000,0.04,51840.0,Transaction note 00987 - system ref 00987
+ORD00988,2027-09-15,CUST028,P013,Keyboard,Electronics,West,Online,4,2200,0.06,8272.0,Transaction note 00988 - system ref 00988
+ORD00989,2027-09-16,CUST029,P014,Mouse,Accessories,North,Retail,5,900,0.08,4140.0,Transaction note 00989 - system ref 00989
+ORD00990,2027-09-17,CUST030,P015,Printer,Office Equipment,South,Partner,6,12500,0.1,67500.0,Transaction note 00990 - system ref 00990
+ORD00991,2027-09-18,CUST031,P016,Laptop,Electronics,East,Online,7,65000,0.0,455000.0,Transaction note 00991 - system ref 00991
+ORD00992,2027-09-19,CUST032,P017,Monitor,Accessories,West,Retail,8,18000,0.02,141120.0,Transaction note 00992 - system ref 00992
+ORD00993,2027-09-20,CUST033,P018,Keyboard,Office Equipment,North,Partner,1,2200,0.04,2112.0,Transaction note 00993 - system ref 00993
+ORD00994,2027-09-21,CUST034,P019,Mouse,Electronics,South,Online,2,900,0.06,1692.0,Transaction note 00994 - system ref 00994
+ORD00995,2027-09-22,CUST035,P020,Printer,Accessories,East,Retail,3,12500,0.08,34500.0,Transaction note 00995 - system ref 00995
+ORD00996,2027-09-23,CUST036,P021,Laptop,Office Equipment,West,Partner,4,65000,0.1,234000.0,Transaction note 00996 - system ref 00996
+ORD00997,2027-09-24,CUST037,P022,Monitor,Electronics,North,Online,5,18000,0.0,90000.0,Transaction note 00997 - system ref 00997
+ORD00998,2027-09-25,CUST038,P023,Keyboard,Accessories,South,Retail,6,2200,0.02,12936.0,Transaction note 00998 - system ref 00998
+ORD00999,2027-09-26,CUST039,P024,Mouse,Office Equipment,East,Partner,7,900,0.04,6048.0,Transaction note 00999 - system ref 00999
+ORD01000,2027-09-27,CUST040,P025,Printer,Electronics,West,Online,8,12500,0.06,94000.0,Transaction note 01000 - system ref 01000

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This lab is designed around the 12 DAX functions covered in the ZoomCharts article **“12 Essential Power BI DAX Formulas Every Report Creator Should Master”** published July 31, 2025.
+This lab is designed around the 12 DAX functions 
 
 The article covers:
 
